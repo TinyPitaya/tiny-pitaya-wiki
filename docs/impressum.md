@@ -1,6 +1,6 @@
 # Impressum
 
-**Angaben gemäß § 5 TMG (Telemediengesetz):**
+**Angaben gemäß § 5 DDG:**
 
 **Sarah Samantha Münch**  
 Künstlername: **Tiny Pitaya**  
