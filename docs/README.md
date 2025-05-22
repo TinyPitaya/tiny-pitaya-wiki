@@ -67,5 +67,7 @@ unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin.
 🔒 **Bitte nichts ohne Erlaubnis kopieren, weiterverwenden oder verbreiten.**  
 Dies gilt insbesondere für den Einsatz in eigenen Projekten, Spielen, Texten oder Medien.
 
+[IMPRESSUM](impressum.md)
+
 © [Sarah Samantha Münch], alle Rechte vorbehalten.
 
