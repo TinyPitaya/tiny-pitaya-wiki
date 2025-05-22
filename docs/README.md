@@ -1,7 +1,17 @@
 # 🌱 Tiny Pitaya Wiki
 
-Willkommen im offiziellen Wiki zu **Tiny Pitaya** – einer lebendigen, detailverliebten Welt voller einzigartiger Wesen, Orte und Geschichten.  
-Hier findest du alles über Flora, Fauna, Regionen, Völker und mehr!
+✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨
+
+Hier entsteht das offizielle Wiki zu meiner magischen Spielwelt, die ich mit viel Herzblut und Leidenschaft erschaffe.
+
+Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender Landschaften - von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den tiefen der Meere. In dieser Welt gibt es viel zu entdecken: spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.
+
+Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
+
+Egal, ob du neu bist oder schon lange dabei – in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
+Ich freue mich, dich auf dieser Reise dabei zu haben!
+
+✨ Viel Spaß beim Entdecken! ✨
 
 ---
 
