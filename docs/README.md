@@ -19,14 +19,18 @@ Hier findest du alles über Flora, Fauna, Regionen, Völker und mehr!
 - [🏰 Das Kaiserreich](./kaiserreich.md)
 - [🌊 Die Inselgruppe Zenzensiya](./zenzensiya.md)
 
-### 🌸 Völker & Spezies
-- [🌼 Elfen](./elfen.md)
+
+### ✨ Spezies & Charaktere ✨
+
+- [🧙‍♀️ Menschen](./menschen.md)
+- [🧝 Elfen](./elfen.md)
+- [🐈 Felinen](./felinen.md)
+- [👯🏻 Moosblütenkinder](./moosblutenkinder.md)
 - [🦌 Rehe](./rehe.md)
-- [🐈 Katzen](./katzen.md)
-- [🍄 Moosblütenkinder](./moosblutenkinder.md)
-- [🌊 Nixen](./nixen.md)
-- [💪 Oni](./oni.md)
-- [🧑‍🌾 Menschen](./menschen.md)
+- [👹 Oni](oni.md)
+- [🐄 Vacchari](vacchari.md)
+- [🧜🏻‍♀️ Nixen](./nixen.md)
+
 
 ### 🌿 Flora & Fauna
 - [🌱 Flora](./flora.md)
