@@ -7,14 +7,17 @@ Hier findest du alles über Flora, Fauna, Regionen, Völker und mehr!
 
 ## 📚 Inhalt
 
-### 🐾 Welt & Regionen
-- [🌿 Akeryllei](./akeryllei.md)
+### ✨ Welt & Regionen ✨
+
+- [🍄 Der Wald von Seltuun](./waldseltuun)
+- [🌷 Akeryllei](./akeryllei.md)
 - [🌳 Phila Han](./phila-han.md)
+- [🌵 Kera Miraoq](./kera-miraoq.md)
+- [🌴 Nefirtarakh](./nefirtarakh.md)
+- [🌸 Rivikōku](./rivikoku.md)
 - [🏔️ Flireijl](./flireijl.md)
-- [🏜️ Nefirtarakh](./nefirtarakh.md)
-- [🌊 Rivikoku](./rivikoku.md)
-- [🍄 Wald von Seltuun](./seltuun.md)
-- [🏰 Kaiserreich](./kaiserreich.md)
+- [🏰 Das Kaiserreich](./kaiserreich.md)
+- [🌊 Die Inselgruppe Zenzensiya](./zenzensiya.md)
 
 ### 🌸 Völker & Spezies
 - [🌼 Elfen](./elfen.md)
