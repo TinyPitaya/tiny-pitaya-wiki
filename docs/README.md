@@ -45,9 +45,9 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ### ✨ Fauna, Flora, Fungi ✨
 
-- [🐸 Fauna](./fauna/!faunamain.md)
-- [🌱 Flora](./flora/floramain.md)
-- [🍄 Fungi](./fungi/fungimain.md)
+- [🐸 Fauna](./fauna/allfaunamain.md)
+- [🌱 Flora](./flora/allfloramain.md)
+- [🍄 Fungi](./fungi/allfungimain.md)
 
 ---
 
