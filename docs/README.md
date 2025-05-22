@@ -8,7 +8,7 @@ Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender 
 
 Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
 
-Egal, ob du neu bist oder schon lange dabei - in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
+Egal, ob du hier neu oder schon länger dabei bist - in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
 Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ✨ Viel Spaß beim Entdecken! ✨
@@ -29,6 +29,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 - [🏰 Das Kaiserreich](./welt/kaiserreich.md)
 - [🌊 Die Inselgruppe Zenzensiya](./welt/zenzensiya.md)
 
+- [Hier kommst du zur Weltkarte](./welt/wholemap.md)
 
 ### ✨ Spezies & Charaktere ✨
 
