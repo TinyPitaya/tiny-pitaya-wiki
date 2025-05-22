@@ -4,12 +4,12 @@
 
 **Sarah Samantha Münch**  
 Künstlername: **Tiny Pitaya**  
-[Deine Straße hier einfügen]  
+Landeskronstraße 3  
 02826 Görlitz  
 Deutschland  
 
-E-Mail: [deine@email.de]  
-Telefon: [deine Telefonnummer]
+E-Mail: SarahSMuench@proton.me  
+Telefon: 015225227262
 
 ---
 
