@@ -8,7 +8,7 @@ Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender 
 
 Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
 
-Egal, ob du neu bist oder schon lange dabei – in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
+Egal, ob du neu bist oder schon lange dabei - in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
 Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ✨ Viel Spaß beim Entdecken! ✨
@@ -32,14 +32,14 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ### ✨ Spezies & Charaktere ✨
 
-- [🧙‍♀️ Menschen](./menschen.md)
-- [🧝 Elfen](./elfen.md)
-- [🐈 Felinen](./felinen.md)
-- [👯🏻 Moosblütenkinder](./moosblutenkinder.md)
-- [🦌 Rehe](./rehe.md)
-- [👹 Oni](oni.md)
-- [🐄 Vacchari](vacchari.md)
-- [🧜🏻‍♀️ Nixen](./nixen.md)
+- [🧙‍♀️ Menschen](./spezies/menschen.md)
+- [🧝 Elfen](./spezies/elfen.md)
+- [🐈 Felinen](./spezies/felinen.md)
+- [👯🏻 Moosblütenkinder](./spezies/moosblutenkinder.md)
+- [🦌 Rehe](./spezies/rehe.md)
+- [👹 Oni](./spezies/oni.md)
+- [🐄 Vacchari](./spezies/vacchari.md)
+- [🧜🏻‍♀️ Nixen](./spezies/nixen.md)
 
 
 ### ✨ Fauna, Flora, Fungi ✨
