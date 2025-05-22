@@ -38,10 +38,12 @@ Hier findest du alles über Flora, Fauna, Regionen, Völker und mehr!
 
 ---
 
-## 🔧 Mitmachen
+## 🔧 Du willst mitmachen?
 
-Diese Seite ist im Aufbau – neue Inhalte folgen laufend.  
-Wenn du Feedback oder Ideen hast, melde dich gerne!
+Momentan ist diese Seite im Aufbau und nur von mir, der Erstellerin editierbar.
+Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
+
+📬 Kontakt: Instagram: @tiny_pitaya
 
 ---
 
@@ -53,5 +55,5 @@ unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin.
 🔒 **Bitte nichts ohne Erlaubnis kopieren, weiterverwenden oder verbreiten.**  
 Dies gilt insbesondere für den Einsatz in eigenen Projekten, Spielen, Texten oder Medien.
 
-© [Tiny Pitaya], alle Rechte vorbehalten.
+© [Sarah Samantha Münch], alle Rechte vorbehalten.
 
