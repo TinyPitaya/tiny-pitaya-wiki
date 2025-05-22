@@ -4,7 +4,7 @@
 
 Hier entsteht das offizielle Wiki zu meiner magischen Spielwelt, die ich mit viel Herzblut und Leidenschaft erschaffe.
 
-Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender Landschaften - von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den tiefen der Meere. In dieser Welt gibt es viel zu entdecken: spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.
+Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender Landschaften - von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den Tiefen der Meere. In dieser Welt gibt es viel zu entdecken: spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.
 
 Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
 
