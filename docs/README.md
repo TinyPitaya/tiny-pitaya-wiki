@@ -32,13 +32,11 @@ Hier findest du alles über Flora, Fauna, Regionen, Völker und mehr!
 - [🧜🏻‍♀️ Nixen](./nixen.md)
 
 
-### 🌿 Flora & Fauna
-- [🌱 Flora](./flora.md)
-- [🐸 Fauna](./fauna.md)
-- [🍄 Fungi](./fungi.md)
+### ✨ Fauna, Flora, Fungi ✨
 
-### 🧙‍♀️ Magie & Segen
-- [✨ Segen & Mächte](./maechte.md)
+- [🐸 Fauna](./fauna.md)
+- [🌱 Flora](./flora.md)
+- [🍄 Fungi](./fungi.md)
 
 ---
 
