@@ -19,7 +19,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ### ✨ Welt & Regionen ✨
 
-- [🍄 Der Wald von Seltuun](./waldseltuun)
+- [🍄 Der Wald von Seltuun](./waldseltuun/waldseltuunmainpage.md)
 - [🌷 Akeryllei](./akeryllei.md)
 - [🌳 Phila Han](./phila-han.md)
 - [🌵 Kera Miraoq](./kera-miraoq.md)
