@@ -1,1 +1,0 @@
-Hier erkläre ich in Kürze, was der Wald von Seltuun genau ist.

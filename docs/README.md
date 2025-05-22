@@ -19,15 +19,15 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ### ✨ Welt & Regionen ✨
 
-- [🍄 Der Wald von Seltuun](./waldseltuun/waldseltuunmainpage.md)
-- [🌷 Akeryllei](./akeryllei.md)
-- [🌳 Phila Han](./phila-han.md)
-- [🌵 Kera Miraoq](./kera-miraoq.md)
-- [🌴 Nefirtarakh](./nefirtarakh.md)
-- [🌸 Rivikōku](./rivikoku.md)
-- [🏔️ Flireijl](./flireijl.md)
-- [🏰 Das Kaiserreich](./kaiserreich.md)
-- [🌊 Die Inselgruppe Zenzensiya](./zenzensiya.md)
+- [🍄 Der Wald von Seltuun](./welt/waldseltuun.md)
+- [🌷 Akeryllei](./welt/akeryllei.md)
+- [🌳 Phila Han](./welt/phila-han.md)
+- [🌵 Kera Miraoq](./welt/kera-miraoq.md)
+- [🌴 Nefirtarakh](./welt/nefirtarakh.md)
+- [🌸 Rivikōku](./welt/rivikoku.md)
+- [🏔️ Flireijl](./welt/flireijl.md)
+- [🏰 Das Kaiserreich](./welt/kaiserreich.md)
+- [🌊 Die Inselgruppe Zenzensiya](./welt/zenzensiya.md)
 
 
 ### ✨ Spezies & Charaktere ✨
