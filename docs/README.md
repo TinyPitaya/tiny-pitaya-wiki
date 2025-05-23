@@ -51,6 +51,12 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ---
 
+### ✨ Fortschritt ✨
+
+➡️ [Hier](./fortschritt.md) kannst du sehen, was wann hochgeladen wurde!
+
+---
+
 ## 🔧 Du willst mitmachen?
 
 Momentan ist diese Seite im Aufbau und nur von mir, der Erstellerin editierbar.
