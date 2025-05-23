@@ -6,7 +6,6 @@ In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
 Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 </div>
 
-<h3 style="color:rgb(118, 158, 94);">✨ Amphibien ✨</h3>
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
@@ -19,4 +18,4 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 7.  🐸
 8.  🐸
 9.  🐸
-10. 🐸 [Secret Frog](./testfrog.md)
+10. 🐸 [Secret Frog](./fauna/testfrog.md)
