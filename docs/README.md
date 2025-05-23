@@ -1,17 +1,21 @@
-# 🌱 Tiny Pitaya Wiki
 
-✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨
+<h1 style="color: #ed3b85; text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
 
-Hier entsteht das offizielle Wiki zu meiner magischen Spielwelt, die ich mit viel Herzblut und Leidenschaft erschaffe.
+<p style="text-align: center;">
+✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨<br><br>
 
-Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender Landschaften - von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den Tiefen der Meere. In dieser Welt gibt es viel zu entdecken: spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.
+Hier entsteht das offizielle Wiki zu meiner magischen Spielwelt, die ich mit viel Herzblut und Leidenschaft erschaffe.<br><br>
 
-Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
+Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender Landschaften – von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den Tiefen der Meere. In dieser Welt gibt es viel zu entdecken: spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.<br><br>
 
-Egal, ob du hier neu oder schon länger dabei bist - in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
-Ich freue mich, dich auf dieser Reise dabei zu haben!
+Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.<br><br>
+
+Egal, ob du hier neu oder schon länger dabei bist – in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.<br><br>
+
+Ich freue mich, dich auf dieser Reise dabei zu haben!<br><br>
 
 ✨ Viel Spaß beim Entdecken! ✨
+</p>
 
 ---
 
