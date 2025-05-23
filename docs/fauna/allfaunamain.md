@@ -19,3 +19,10 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 8.  🐸
 9.  🐸
 10. 🐸 [Secret Frog](./fauna/testfrog.md)
+
+---
+
+## 📜 Legende
+
+🐸 -> Frosch / Kröte / Unke
+🐍 -> Schlange
