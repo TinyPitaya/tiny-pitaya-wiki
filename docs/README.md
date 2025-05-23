@@ -76,7 +76,7 @@ Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
 
 ## 📄 Rechtlicher Hinweis
 
-Alle Inhalte dieses Wikis – einschließlich Texte, Namen, Konzepte, Orte, Figuren und Beschreibungen –  
+Alle Inhalte dieses Wikis - einschließlich Texte, Namen, Konzepte, Orte, Figuren und Beschreibungen - 
 unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin.
 
 🔒 **Bitte nichts ohne Erlaubnis kopieren, weiterverwenden oder verbreiten.**  
