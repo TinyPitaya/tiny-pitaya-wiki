@@ -6,7 +6,7 @@
   <div style="flex: 1;">
     <img src="./faunapics/troepfelkroete1.jpg"
          alt="Tröpfelkröte"
-         style="max-width: 50%; height: auto; border-radius: 8px;">
+         style="max-width: 75%; height: auto; border-radius: 8px;">  <!-- 50% war zu klein, 75% testen -->
   </div>
   <!-- Aussehen-Box rechts -->
   <div style="flex: 1;">
