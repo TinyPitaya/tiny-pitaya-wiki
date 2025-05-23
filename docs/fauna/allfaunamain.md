@@ -18,7 +18,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 7.  🐸
 8.  🐸
 9.  🐸
-10. 🐸 [Secret Frog](../fauna/testfrog.md)
+10. 🐸 [Secret Frog](./fauna/testfrog.md)
 
 ---
 
