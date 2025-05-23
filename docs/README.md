@@ -83,5 +83,3 @@ unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin.
 Dies gilt insbesondere für den Einsatz in eigenen Projekten, Spielen, Texten oder Medien.
 
 [IMPRESSUM](impressum.md)
-
-
