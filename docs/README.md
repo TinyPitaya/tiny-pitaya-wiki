@@ -1,5 +1,5 @@
 
-<h1 style="color: #ed3b85; text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
+<h1 style="color:rgb(255, 94, 161); text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
 
 <div style="text-align: center;">
 ✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨
@@ -11,9 +11,9 @@ Seltuun ist ein Ort voller Geheimnisse, magischer Kreaturen und atemberaubender 
 von dichten, verwunschenen Wäldern bis hin zu endlosen Wüsten oder den Tiefen der Meere. In dieser Welt gibt es viel zu entdecken:
 spannende Charaktere, einzigartige Spezies und eine reiche Geschichte, die ich mit jedem neuen Kapitel weiter ausbaue.
 
-Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.
+Dieses Wiki soll dir als Begleiter dienen, um die vielen Facetten von Seltuun zu erkunden und in die Geschichten einzutauchen, die ich erzähle.🥰
 
-Egal, ob du hier neu oder schon länger dabei bist – in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
+Egal, ob du hier neu oder schon länger dabei bist - in diesem Wiki findest du alle wichtigen Infos, Hintergrundgeschichten und spannende Details.
 
 
 Ich freue mich, dich auf dieser Reise dabei zu haben!
@@ -37,7 +37,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 - [🏰 Das Kaiserreich](./welt/kaiserreich.md)
 - [🌊 Die Inselgruppe Zenzensiya](./welt/zenzensiya.md)
 
-➡️ [Hier](./welt/wholemap.md)kommst du zur Weltkarte!
+➡️ [Hier](./welt/wholemap.md) kommst du zur Weltkarte!
 
 ### ✨ Spezies & Charaktere ✨
 
@@ -59,7 +59,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ---
 
-### ✨ Fortschritt ✨
+## 📝 Fortschritt
 
 ➡️ [Hier](./fortschritt.md) kannst du sehen, was wann hochgeladen wurde!
 
@@ -67,7 +67,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ## 🔧 Du willst mitmachen?
 
-Momentan ist diese Seite im Aufbau und nur von mir, der Erstellerin editierbar.
+Momentan ist diese Seite im Aufbau und nur von mir, der Erstellerin editierbar.<br>
 Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
 
 📬 Kontakt: Instagram: @tiny_pitaya
