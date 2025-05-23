@@ -1,1 +1,1 @@
-Hier findest du in Kürze alles über die Tröpfelkröte!
+<h2 style="color: rgb(110, 255, 94);">✨ die Tröpfelkröte ✨</h2>
