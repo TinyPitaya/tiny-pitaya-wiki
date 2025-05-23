@@ -33,7 +33,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!<br><br>
 - [🏰 Das Kaiserreich](./welt/kaiserreich.md)
 - [🌊 Die Inselgruppe Zenzensiya](./welt/zenzensiya.md)
 
-- [Hier kommst du zur Weltkarte](./welt/wholemap.md)
+➡️ [Hier](./welt/wholemap.md)kommst du zur Weltkarte!
 
 ### ✨ Spezies & Charaktere ✨
 
