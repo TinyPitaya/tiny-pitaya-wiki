@@ -5,6 +5,6 @@ In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
 Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 </div>
 
-<h2 style="color: rgb(110, 255, 94);">✨ Amphibien ✨</h2>
+<h2 style="color: rgb(118, 189, 110);">✨ Amphibien ✨</h2>
 
-10. 🐸 [die Tröpfelkröte](./troepfelkroete.md)
+10. 🐸 [die Tröpfelkröte](troepfelkroete.md)
