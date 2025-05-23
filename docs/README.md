@@ -59,7 +59,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ---
 
-## 📝 Fortschritt
+## 🛠️ Fortschritt
 
 ➡️ [Hier](./fortschritt.md) kannst du sehen, was wann hochgeladen wurde!
 
@@ -74,7 +74,7 @@ Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
 
 ---
 
-## 📄 Rechtlicher Hinweis
+## 📜 Rechtlicher Hinweis
 
 Alle Inhalte dieses Wikis - einschließlich Texte, Namen, Konzepte, Orte, Figuren und Beschreibungen - 
 unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin.
