@@ -84,5 +84,4 @@ Dies gilt insbesondere für den Einsatz in eigenen Projekten, Spielen, Texten od
 
 [IMPRESSUM](impressum.md)
 
-© [Sarah Samantha Münch], alle Rechte vorbehalten.
 
