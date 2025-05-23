@@ -4,5 +4,12 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
-  font-weight: bold; /* Schrift dicker */
+}
+
+/* Sidebar-Schrift dicker */
+.sidebar,
+.sidebar a,
+.sidebar ul,
+.sidebar li {
+  font-weight: 800;
 }
