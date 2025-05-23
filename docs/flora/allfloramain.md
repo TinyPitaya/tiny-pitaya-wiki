@@ -15,4 +15,4 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 
 ## 📜 Legende
 
-🌷 -> Tulpe
+🌷 -> Tulpe<br>

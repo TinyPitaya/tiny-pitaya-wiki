@@ -7,7 +7,7 @@ Entdecke hier die Vielfalt der Pilze!
 </div>
 
 
-<h3 style="color:rgb(70, 27, 24); text-align: left;">✨ Pilze ✨</h3>
+<h3 style="color:rgb(108, 43, 38); text-align: left;">✨ Pilze ✨</h3>
 
 1.  🍄
 
@@ -15,4 +15,4 @@ Entdecke hier die Vielfalt der Pilze!
 
 ## 📜 Legende
 
-🍄 -> Pilz
+🍄 -> Pilz<br>
