@@ -1,7 +1,9 @@
 /* Sidebar-Hintergrundfarbe */
 .sidebar {
- background-image: url('./assets/sidebarbg.jpg');
+  background-image: url('./assets/sidebarbg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center bottom;
+
+  font-weight: 600; /* Schrift dicker */
 }
