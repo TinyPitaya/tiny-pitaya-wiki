@@ -8,6 +8,8 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94);">✨ Amphibien ✨</h3>
 
+<h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
+
 1.  🐸
 2.  🐸
 3.  🐸
