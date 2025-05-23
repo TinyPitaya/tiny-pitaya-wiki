@@ -1,4 +1,5 @@
-<h2 style="color:rgb(255, 158, 94); text-align: center;">🌱 Fauna 🌱</h2>
+
+<h2 style="color:rgb(255, 158, 94); text-align: center;">🌱 Fauna 🌱</h2>
 
 <div style="text-align: center;">
 In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
