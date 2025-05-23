@@ -1,6 +1,6 @@
 /* Sidebar-Hintergrundfarbe */
 .sidebar {
-  background-image: url('./docs/assets/sidebar-bg.jpg');
+  background-image: url('./assets/sidebar-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
