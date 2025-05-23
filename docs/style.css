@@ -1,6 +1,5 @@
 /* Sidebar-Hintergrundfarbe */
 .sidebar {
-  background-color: #f1fadc; /* Fallback-Farbe, falls Bild nicht lädt */
   background-image: url('./docs/assets/sidebar-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
