@@ -1,11 +1,11 @@
-<h1 style="color:rgb(255, 158, 94); text-align: center;">🌱 Fauna 🌱</h1>
+<h2 style="color:rgb(255, 158, 94); text-align: center;">🌱 Fauna 🌱</h2>
 
 <div style="text-align: center;">
 In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
 Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 </div>
 
-<h2 style="color:rgb(118, 158, 94);">✨ Amphibien ✨</h2>
+<h3 style="color:rgb(118, 158, 94);">✨ Amphibien ✨</h3>
 
 1.  🐸
 2.  🐸
