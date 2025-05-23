@@ -1,7 +1,7 @@
 
 <h1 style="color: #ed3b85; text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
 
-<p style="text-align: center;">
+<div style="text-align: center;">
 ✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨<br><br>
 
 Hier entsteht das offizielle Wiki zu meiner magischen Spielwelt, die ich mit viel Herzblut und Leidenschaft erschaffe.<br><br>
@@ -15,7 +15,7 @@ Egal, ob du hier neu oder schon länger dabei bist – in diesem Wiki findest du
 Ich freue mich, dich auf dieser Reise dabei zu haben!<br><br>
 
 ✨ Viel Spaß beim Entdecken! ✨
-</p>
+</div>
 
 ---
 
