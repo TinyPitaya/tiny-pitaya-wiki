@@ -1,26 +1,32 @@
-<!-- HTML blendet alle Leertasten und Leerzeilen aus, also kann ich hier so viele machen, wie ich lustig bin -->
-
-<!DOCTYPE html>  <!-- HTML-Dokument wird korrekt und einheitlich interpretiert -->
-
-<html lang="de"> <!-- Sprache des Dokuments (für Suchmaschinen und Browser) -->
-
-<head> <!--  PFLICHT, wie ein Gehirn, aber nicht direkt sichtbar, Metadaten, Styles und Skripte -->
-
-  <meta charset="UTF-8" />  <!-- Darstellungsfehler bei Umlauten und Sonderzeichen vermeiden -->
-  <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Skalierung für mobile Geräte wird hier gesteuert -->
-  <title>Tiny Pitaya Wiki</title> <!-- Titel, jederzeit änderbar -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" /> <!-- Farben, Schrift, Layout usw. von Docsify -->
-  <link rel="stylesheet" href="./style.css" /> <!-- Sidebar NUR Optik, KEINE INHALTE -->
-
-</head> <!-- PFLICHT, ENDE von head, wichtig -->
-
-<body> <!-- PFLICHT, hier steht alles, was man dann wirklich direkt sieht -->
-
-  <div id="app"></div> <!-- PFLICHT, ohne das bleibt die Seite leer und lädt nicht -->
 
 
+<!DOCTYPE html>
 
+<html>
 
-</body> <!-- PFLICHT, ENDE von body, wichtig -->
+<head>
 
-</html> <!-- PFLICHT, ENDE HTML-Dokument, Schließtags haben KEINE Attribute -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tiny Pitaya Wiki</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+  <link rel="stylesheet" href="./style.css" />
+
+</head>
+
+<body>
+    
+
+  <div id="app"></div>
+
+<script>
+  window.$docsify = {
+    name: 'Tiny Pitaya Wiki',
+    loadSidebar: true,
+    sidebar: 'sidebar.md'
+  };
+</script>
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
