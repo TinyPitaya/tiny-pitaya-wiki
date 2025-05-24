@@ -4,7 +4,8 @@
 > Erstellung der Legende in Fauna<br>
 > Eintrag zur Tröpfelkröte erstellt<br>
 > Gliederung von Flora<br>
-> Gliederung von Fungi
+> Gliederung von Fungi<br>
+> komplette Überarbeitung der Sidebar
 
 ## 23.05.2025
 > Erstellung des Einführungstextes<br>
