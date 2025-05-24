@@ -80,7 +80,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 
 <div style="border: 2px solid rgb(118, 158, 94); padding: 10px; border-radius: 10px; background-color:rgba(118, 158, 94, 0.35); max-width: 600px;">
-  <table style="width: 100%; border-collapse: collapse;">
+  <table style="width: auto; border-collapse: collapse;"> <!-- 100% durch auto ersetzen? -->
     <tr>
       <th style="text-align:left; padding: 5px;">Symbol</th>
       <th style="text-align:left; padding: 5px;">Bedeutung</th>
