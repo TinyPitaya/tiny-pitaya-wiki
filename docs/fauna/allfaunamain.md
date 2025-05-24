@@ -84,15 +84,18 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   border-radius:8px;
   padding:1em;
 ">
-🐸 -> Frösche / Kröten / Unken                 🕷️ -> Spinnen<br>
-🐍 -> Schlangen                                🏐 -> eingerollte Asseln<br>
-🦎 -> Echsen / Salamander                      🐉 -> Libellen / Dragonflies<br>
-🐟 -> Süßwasserfische                          🐬 -> Meeressäuger<br>
-🐠 -> Salzwasserfische                         🐿️ -> Streifen- / Flug- / Eichhörnchen<br>
-🦈 -> Haie                                     🐁 -> Mäuse<br>
-🦀 -> Krabben / Krebse                         🦉 -> Eulen / Kauze<br>
-🐝 -> Bienen / Funkelkäfer                     🦅 -> Falken<br>
-🐌 -> Schnecken                                🕊️ -> Kleinvögel<br>
-🦋 -> Schmetterlinge / Motten                  🦜 -> tropische Vögel<br>
-🦊 -> Füchse  
+| Symbol | Bedeutung                        | Symbol | Bedeutung                        |
+|--------|--------------------------------|--------|--------------------------------|
+| 🐸     | Frösche / Kröten / Unken       | 🕷️     | Spinnen                        |
+| 🐍     | Schlangen                      | 🏐     | eingerollte Asseln             |
+| 🦎     | Echsen / Salamander            | 🐉     | Libellen / Dragonflies         |
+| 🐟     | Süßwasserfische                | 🐬     | Meeressäuger                  |
+| 🐠     | Salzwasserfische               | 🐿️     | Streifen- / Flug- / Eichhörnchen |
+| 🦈     | Haie                          | 🐁     | Mäuse                         |
+| 🦀     | Krabben / Krebse              | 🦉     | Eulen / Kauze                 |
+| 🐝     | Bienen / Funkelkäfer           | 🦅     | Falken                        |
+| 🐌     | Schnecken                     | 🕊️     | Kleinvögel                    |
+| 🦋     | Schmetterlinge / Motten       | 🦜     | tropische Vögel               |
+| 🦊     | Füchse                        |        |                              |
+
 </div>
