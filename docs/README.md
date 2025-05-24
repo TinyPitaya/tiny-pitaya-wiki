@@ -19,11 +19,13 @@ Egal, ob du hier neu oder schon länger dabei bist - in diesem Wiki findest du a
 Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ✨ Viel Spaß beim Entdecken! ✨
-</div>
+
+
+</div>s
 
 <div style="
-  border:2px solid rgb(227, 86, 136);
-  background-color: rgba(200,255,200,0.2);
+  border:2px solid rgb(255, 94, 161);
+  background-color: rgba(255, 94, 161, 0.35);
   border-radius:8px;
   padding:1em;
 ">
