@@ -1,32 +1,57 @@
+<!-- HTML blendet alle Leertasten und Leerzeilen aus, also kann ich hier so viele machen, wie ich lustig bin -->
 
+<!DOCTYPE html>  <!-- HTML-Dokument wird korrekt und einheitlich interpretiert -->
 
-<!DOCTYPE html>
+<html lang="de"> <!-- Sprache des Dokuments (für Suchmaschinen und Browser) -->
 
-<html>
+<head> <!--  PFLICHT, wie ein Gehirn, aber nicht direkt sichtbar, Metadaten, Styles und Skripte -->
 
-<head>
+  <meta charset="UTF-8" />  <!-- Darstellungsfehler bei Umlauten und Sonderzeichen vermeiden -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Skalierung für mobile Geräte wird hier gesteuert -->
+  <title>Tiny Pitaya Wiki</title> <!-- Titel, jederzeit änderbar -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" /> <!-- Farben, Schrift, Layout usw. von Docsify -->
+  <link rel="stylesheet" href="./style.css" /> <!-- Sidebar NUR Optik, KEINE INHALTE -->
 
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Tiny Pitaya Wiki</title>
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
-  <link rel="stylesheet" href="./style.css" />
+</head> <!-- PFLICHT, ENDE von head, wichtig -->
 
-</head>
+<body> <!-- PFLICHT, hier steht alles, was man dann wirklich direkt sieht -->
 
-<body>
-    
+  <div id="app"> <!-- PFLICHT, öffnet den Container, ohne das bleibt die Seite leer und lädt nicht -->
+  <p id="loading-text">Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .</p> <!-- der Starttext, der angezeigt wird -->
+</div> <!-- PFLICHT, schließt den Container --> 
 
-  <div id="app"></div>
+<script>  // Skript angefangen 
 
-<script>
-  window.$docsify = {
-    name: 'Tiny Pitaya Wiki',
-    loadSidebar: true,
-    sidebar: 'sidebar.md'
-  };
-</script>
+const messages = [ 
+    "Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .",
+    "Beobachte einen 🦜 Viriltukan in 🌳 Phila Han . . ."   // legt fest, dass und welche Texte sich abwechseln
+];                                                          
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-</body>
-</html>
+  let index = 0;    // zeigt an, mit welchem Text angefangen wird, startend bei null
+
+  const interval = setInterval(() => {    // Intervall der Wechsel gestartet
+
+const el = document.getElementById("loading-text");
+    if (el) {
+      el.textContent = messages[index % messages.length];
+      index++;
+    }
+  }, 6000); // alle 6 Sekunden wechseln
+
+  // Sobald die Seite vollständig von Docsify gerendert ist:
+  window.addEventListener("load", () => {
+    const el = document.getElementById("loading-text");
+    if (el) el.remove(); // Lade-Text verschwindet
+
+    clearInterval(interval); // Intervall der Wechsel gestoppt
+  
+
+});
+
+</script> <!-- Skript beendet -->
+
+<script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> <!-- wandelt Webseite um -->
+
+</body> <!-- PFLICHT, ENDE von body, wichtig -->
+
+</html> <!-- PFLICHT, ENDE HTML-Dokument, Schließtags haben KEINE Attribute -->
