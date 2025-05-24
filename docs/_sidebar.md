@@ -1,11 +1,13 @@
-<!-- Ganz oben: "Tiny Pitaya", mit Link zu deiner Zukunfts-Datei aboutsam.md -->
-- **[Tiny Pitaya](aboutsam.md)**
+<!-- Ganz oben: Über mich -->
+* [Tiny Pitaya ✿](aboutsam.md)
 
-<!-- Dann: Link zurück zur Startseite -->
-- [Startseite](README.md)
+<!-- Zurück zur Startseite -->
+* [Startseite](README.md)
 
-<!-- — hier könntest du noch weitere statische Links einfügen — -->
-- [Fortschritt](fortschritt.md)
+---
 
-<!-- Ganz unten: Impressum -->
-- [Impressum](impressum.md)
+<!-- Fortschritt -->
+* [Fortschritt](fortschritt.md)
+
+<!-- Impressum ganz unten -->
+* [Impressum](impressum.md)
