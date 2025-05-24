@@ -1,1 +1,1 @@
-* [Startseite](README.md)
+- [Startseite](README.md)
