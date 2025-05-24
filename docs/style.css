@@ -10,12 +10,16 @@
   background-position: center bottom;
 
   text-align: left;
-  font-size: medium;
+  font-size: 30px;
   color: black;
 }
 
 .sidebar h2 {
   text-align: center;
-  font-size: larger;
+  font-size: 24px;
   color: rgb(255, 94, 161);
+}
+
+.sidebar a:hover {
+  color:mediumspringgreen; 
 }
