@@ -78,24 +78,58 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 ## 📜 Legende
 
-<div style="
-  border:2px solid rgb(118, 158, 94);
-  background-color: rgba(118, 158, 94, 0.35);
-  border-radius:8px;
-  padding:1em;
-">
-| Symbol | Bedeutung                        | Symbol | Bedeutung                        |
-|--------|--------------------------------|--------|--------------------------------|
-| 🐸     | Frösche / Kröten / Unken       | 🕷️     | Spinnen                        |
-| 🐍     | Schlangen                      | 🏐     | eingerollte Asseln             |
-| 🦎     | Echsen / Salamander            | 🐉     | Libellen / Dragonflies         |
-| 🐟     | Süßwasserfische                | 🐬     | Meeressäuger                  |
-| 🐠     | Salzwasserfische               | 🐿️     | Streifen- / Flug- / Eichhörnchen |
-| 🦈     | Haie                          | 🐁     | Mäuse                         |
-| 🦀     | Krabben / Krebse              | 🦉     | Eulen / Kauze                 |
-| 🐝     | Bienen / Funkelkäfer           | 🦅     | Falken                        |
-| 🐌     | Schnecken                     | 🕊️     | Kleinvögel                    |
-| 🦋     | Schmetterlinge / Motten       | 🦜     | tropische Vögel               |
-| 🦊     | Füchse                        |        |                              |
 
+<div style="border: 2px solid rgb(118, 158, 94); padding: 10px; border-radius: 10px; background-color:rgba(118, 158, 94, 0.35); max-width: 600px;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <th style="text-align:left; padding: 5px;">Symbol</th>
+      <th style="text-align:left; padding: 5px;">Bedeutung</th>
+      <th style="text-align:left; padding: 5px;">Symbol</th>
+      <th style="text-align:left; padding: 5px;">Bedeutung</th>
+    </tr>
+    <tr>
+      <td>🐸</td><td>Frösche / Kröten / Unken</td>
+      <td>🕷️</td><td>Spinnen</td>
+    </tr>
+    <tr>
+      <td>🐍</td><td>Schlangen</td>
+      <td>🏐</td><td>eingerollte Asseln</td>
+    </tr>
+    <tr>
+      <td>🦎</td><td>Echsen / Salamander</td>
+      <td>🐉</td><td>Libellen / Dragonflies</td>
+    </tr>
+    <tr>
+      <td>🐟</td><td>Süßwasserfische</td>
+      <td>🐬</td><td>Meeressäuger</td>
+    </tr>
+    <tr>
+      <td>🐠</td><td>Salzwasserfische</td>
+      <td>🐿️</td><td>Streifen- / Flug- / Eichhörnchen</td>
+    </tr>
+    <tr>
+      <td>🦈</td><td>Haie</td>
+      <td>🐁</td><td>Mäuse</td>
+    </tr>
+    <tr>
+      <td>🦀</td><td>Krabben / Krebse</td>
+      <td>🦉</td><td>Eulen / Kauze</td>
+    </tr>
+    <tr>
+      <td>🐝</td><td>Bienen / Funkelkäfer</td>
+      <td>🦅</td><td>Falken</td>
+    </tr>
+    <tr>
+      <td>🐌</td><td>Schnecken</td>
+      <td>🕊️</td><td>Kleinvögel</td>
+    </tr>
+    <tr>
+      <td>🦋</td><td>Schmetterlinge / Motten</td>
+      <td>🦜</td><td>tropische Vögel</td>
+    </tr>
+    <tr>
+      <td>🦊</td><td>Füchse</td>
+      <td></td><td></td>
+    </tr>
+  </table>
 </div>
