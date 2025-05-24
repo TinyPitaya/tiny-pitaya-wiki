@@ -1,6 +1,7 @@
 
 ## 24.05.2025
 > Gliederung von Fauna<br>
+> Erstellung der Legende in Fauna<br>
 > Eintrag zur Tröpfelkröte erstellt<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi
