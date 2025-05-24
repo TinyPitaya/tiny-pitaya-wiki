@@ -21,7 +21,7 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 ✨ Viel Spaß beim Entdecken! ✨
 
 
-</div>s
+</div>
 
 <div style="
   border:2px solid rgb(255, 94, 161);

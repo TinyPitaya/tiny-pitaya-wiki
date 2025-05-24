@@ -6,13 +6,13 @@
   <div style="flex: 1;">
     <img src="./faunapics/troepfelkroete-1.jpg" 
          alt="🐸 Die Tröpfelkröte 🐸"
-         style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war zu klein, 85% passt -->
+         style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
   </div>
   <!-- Aussehen-Box rechts -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Aussehen ✨</h3>
     <p style="margin: 0;">
-   Die Tröpfelkröte ist eine etwa 12 cm große, überwiegend cremefarbene Krötenart. Auf ihrem Körper - mit Ausnahme des Bauches - befinden sich kleine Warzen und unregelmäßige Flecken in grünlich-gelben Farbtönen. Ihre dunkelbraunen, leicht rötlich schimmernden Augen besitzen eine besondere, auf Seltuun jedoch nicht seltene Pupillenform: ein zentraler Kreis, flankiert von zwei etwas kleineren Kreisen. Aufgrund ihrer hellen Färbung ist sie auf flachen Wiesen gut sichtbar.
+   Die Tröpfelkröte ist eine etwa 12 cm große, überwiegend cremefarbene Krötenart. Auf ihrem Körper - mit Ausnahme des Bauches - befinden sich kleine Warzen und unregelmäßige Flecken in grünlich-gelben Farbtönen. Ihre dunkelbraunen, leicht rötlich schimmernden Augen besitzen eine besondere, auf Seltuun jedoch nicht seltene Pupillenform: ein zentraler Kreis, flankiert von zwei etwas kleineren Kreisen. Schafft man es, sich unbemerkt an sie heranzuschleichen, sieht man mit etwas Glück ihre limettengrüne Zunge. Aufgrund ihrer hellen Färbung ist sie auf flachen Wiesen gut sichtbar.
     </p>
   </div>
 </div>
