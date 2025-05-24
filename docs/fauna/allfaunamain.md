@@ -40,6 +40,10 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(227, 176, 99); text-align: left;">✨ Insekten ✨</h3>
 
+<p style="display: inline-block; transform: rotate(-10deg); margin: 10px 0;">
+  * Hinweis: In der Kategorie „Insekten“ sind auch andere Lebewesen enthalten, da sich die Kategorie danach richtet, dass ein Zusatz am [Tierfanggegenstand] benötigt wird.
+</p>
+
 1.  🦀  [kommt bald!]
 2.  🐝  [kommt bald!]
 3.  🦀  [kommt bald!]
