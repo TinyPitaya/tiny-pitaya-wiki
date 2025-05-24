@@ -1,15 +1,12 @@
 /* Sidebar-Hintergrund */
 .sidebar {
+  width: 250px;
+  float: left;
+  padding: 20px;
+
   background-image: url('./assets/sidebarbg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
 }
 
-/* Sidebar-Schrift dicker */
-.sidebar,
-.sidebar a,
-.sidebar ul,
-.sidebar li {
-  font-weight: 800;
-}

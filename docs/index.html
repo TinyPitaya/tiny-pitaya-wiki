@@ -14,18 +14,40 @@
 
 
 
-  <script>                                      // Sidebar Test
+  <script>
     window.$docsify = {
-      loadSidebar: true,
-      sidebar: 'sidebar.md',
+      name: '🌱 Tiny Pitaya 🌱',
+      loadSidebar: false                      // Wir deaktivieren die automatische Sidebar
     };
   </script>
+
 
 
 
 </head> <!-- PFLICHT, ENDE von head, wichtig -->
 
 <body> <!-- PFLICHT, hier steht alles, was man dann wirklich direkt sieht -->
+
+
+
+
+ <div id="sidebar" class="sidebar">
+    <h2>🌱 Tiny Pitaya 🌱</h2>
+    <ul>
+      <li><a href="README.md">Startseite</a></li>
+
+      <li><a href="aboutme.md">Über mich</a></li>
+
+      <li><a href="fortschritt.md">Fortschritt</a></li>
+
+      <li><a href="impressum.md">Impressum</a></li>
+
+      <!-- Füge hier weitere Links hinzu -->
+    </ul>
+  </div>
+
+
+
 
   <div id="app"> <!-- PFLICHT, öffnet den Container, ohne das bleibt die Seite leer und lädt nicht -->
   <p id="loading-text">Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .</p> <!-- der Starttext, der angezeigt wird -->
