@@ -21,7 +21,17 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 ✨ Viel Spaß beim Entdecken! ✨
 </div>
 
----
+<div style="
+  border:2px solid rgb(227, 86, 136);
+  background-color: rgba(200,255,200,0.2);
+  border-radius:8px;
+  padding:1em;
+">
+<strong>Hinweis</strong><br>
+Diese Webseite funktioniert aktuell nur im Webbrowser optimal.  
+Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
+</div>
+
 
 ## 📚 Inhalt
 
