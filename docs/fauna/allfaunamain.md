@@ -88,7 +88,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 🐍 -> Schlangen                                🏐 -> eingerollte Asseln<br>
 🦎 -> Echsen / Salamander                      🐉 -> Libellen / Dragonflies<br>
 🐟 -> Süßwasserfische                          🐬 -> Meeressäuger<br>
-🐠 -> Salzwasserfische                         🐿️ -> Streifen- / Flug- /Eichhörnchen<br>
+🐠 -> Salzwasserfische                         🐿️ -> Streifen- / Flug- / Eichhörnchen<br>
 🦈 -> Haie                                     🐁 -> Mäuse<br>
 🦀 -> Krabben / Krebse                         🦉 -> Eulen / Kauze<br>
 🐝 -> Bienen / Funkelkäfer                     🦅 -> Falken<br>

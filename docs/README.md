@@ -20,7 +20,6 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 ✨ Viel Spaß beim Entdecken! ✨
 
-
 </div>
 
 <div style="
