@@ -1,5 +1,5 @@
 <!-- Ganz oben: Über mich -->
-* [Über mich](aboutsam.md)
+* [Tiny Pitaya ✿](aboutsam.md)
 
 <!-- Zurück zur Startseite -->
 * [Startseite](README.md)
