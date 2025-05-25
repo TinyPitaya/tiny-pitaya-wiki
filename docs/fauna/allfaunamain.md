@@ -6,6 +6,11 @@ In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
 Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 </div>
 
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
@@ -20,6 +25,9 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 9.  🐸  [kommt bald!]
 10. 🐸  [Die Tröpfelkröte](./fauna/troepfelkroete.md)
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(58, 103, 176); text-align: left;">✨ Fische ✨</h3>
 
@@ -37,6 +45,9 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 12. 🐟  [kommt bald!]
 13. 🦈  [kommt bald!]
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(227, 176, 99); text-align: left;">✨ Insekten ✨</h3>
 
@@ -62,6 +73,15 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 16. 🕷️  [kommt bald!]
 17. 🦋  [kommt bald!]
 
+</div>
+
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(198, 113, 56); text-align: left;">✨ Säugetiere ✨</h3>
 
@@ -70,6 +90,9 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 3.  🦊  [kommt bald!]
 4.  🐁  [kommt bald!]
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(91, 176, 207); text-align: left;">✨ Vögel ✨</h3>
 
@@ -78,13 +101,23 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 3.  🦜  [kommt bald!]
 4.  🦅  [kommt bald!]
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
+[kommt bald!]
+
+</div>
+
+</div>
+
 ---
 
 ## 📜 Legende
 
 
-<div style="border: 2px solid rgb(118, 158, 94); padding: 10px; border-radius: 10px; background-color:rgba(118, 158, 94, 0.35); max-width: 600px;">
-  <table style="width: auto; border-collapse: collapse;"> <!-- 100% durch auto ersetzen? -->
+<div style="border: 2px solid rgb(192, 96, 33); padding: 10px; border-radius: 10px; background-color:rgba(0, 68, 255, 0.68); max-width: 600px;">
+  <table style="width: 90%; border-collapse: collapse;"> <!-- 100% und auto brachte nichts. Test mit 90%? -->
     <tr>
       <th style="text-align:left; padding: 5px;">Symbol</th>
       <th style="text-align:left; padding: 5px;">Bedeutung</th>
