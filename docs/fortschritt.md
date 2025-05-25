@@ -1,12 +1,15 @@
 
 <div style="
+  display: inline-block;
+  width: auto;
   border:2px solid rgb(102, 204, 70);
   background-color: rgba(102, 204, 70, 0.35);
   border-radius:8px;
   padding:1em;
 ">
 <strong>🛠️ in Arbeit 🛠️</strong><br>
-  <ul>
+
+<ul style="margin: 0; padding-left: 1em; list-style-position: inside;">
     <li>Vampirspringspinne</li>
     <li>Drachenschnecke</li>
     <li>Holzkiemer</li>
