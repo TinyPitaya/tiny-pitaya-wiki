@@ -22,6 +22,9 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 </div>
 
+
+
+
 <div style="
   border:2px solid rgb(255, 94, 161);
   background-color: rgba(255, 94, 161, 0.35);
@@ -32,6 +35,9 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 Diese Webseite funktioniert aktuell nur im Webbrowser optimal.  
 Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
+
+
+
 
 
 ## 📚 Inhalt
@@ -74,16 +80,44 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 <div style="flex: 1; min-width: 200px;">
 
-### ✨ Fauna, Flora, Fungi ✨
+### ✨ Artenvielfalt ✨
 
 - [🐸 Fauna](./fauna/allfaunamain.md)
 - [🌱 Flora](./flora/allfloramain.md)
 - [🍄 Fungi](./fungi/allfungimain.md)
 
+### ✨ Gegner-Archiv ✨
+
+- [🗡️ kommt bald!](/neugier)
+
 </div>
 </div>
 
 ---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 200px;">
+
+### ✨ ??? ✨
+
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
+### ✨ ??? ✨
+
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
+### ✨ ??? ✨
+
+</div>
+</div>
+
+---
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
 
