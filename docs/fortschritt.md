@@ -13,14 +13,17 @@
     <li>Vampirspringspinne</li>
     <li>Drachenschnecke</li>
     <li>Holzkiemer</li>
+    <li>Optik für Trennungen</li>
   </ul>
 </div>
 
 ---
 
 ## 25.05.2025
-> Erstellung der "Über mich" Seite<br>
+> Erstellung der "about me" Seite<br>
 > Erstellung der 404 Seite<br>
+> Erstellung der Legende in Flora<br>
+> Erstellung der Legende in Fungi<br>
 
 ## 24.05.2025
 > Gliederung von Fauna<br>
