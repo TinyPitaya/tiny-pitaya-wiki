@@ -6,6 +6,9 @@ In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
 Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(172, 97, 187); text-align: left;">✨ Blumen ✨</h3>
 
@@ -28,6 +31,9 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 17. 
 18. 
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(75, 167, 110); text-align: left;">✨ Kräuter ✨</h3>
 
@@ -42,7 +48,12 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 9.  
 10. 
 11. 
----
+
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
+<h3 style="color:rgb(0, 0, 0); text-align: left;">✨ Kräuter ✨</h3>
 
 ## 📜 Legende
 

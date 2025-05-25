@@ -2,8 +2,8 @@
 <div style="
   display: inline-block;
   width: auto;
-  border:2px solid rgb(102, 204, 70);
-  background-color: rgba(102, 204, 70, 0.35);
+  border:2px solid rgb(130, 204, 70);
+  background-color: rgba(130, 204, 70, 0.25);
   border-radius:8px;
   padding:1em;
 ">
