@@ -1,6 +1,7 @@
 
 ## 25.05.2025
 > Erstellung der "Über mich" Seite<br>
+> Erstellung der 404 Seite<br>
 
 ## 24.05.2025
 > Gliederung von Fauna<br>

@@ -14,7 +14,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
-1.  🐸  [kommt bald!]
+1.  🐸  [kommt bald!](/docs/neugier.md) 
 2.  🐸  [kommt bald!]
 3.  🐸  [kommt bald!]
 4.  🐸  [kommt bald!]
@@ -50,10 +50,6 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 <div style="flex: 1; min-width: 200px;">
 
 <h3 style="color:rgb(227, 176, 99); text-align: left;">✨ Insekten ✨</h3>
-
-<p style="display: inline-block; margin: 10px 0;">
-  * Hinweis: In der Kategorie „Insekten“ sind auch andere Lebewesen enthalten, da sich die Kategorie danach richtet, dass ein Zusatz am [Tierfanggegenstand] benötigt wird.
-</p>
 
 1.  🦀  [kommt bald!]
 2.  🐝  [kommt bald!]
@@ -116,8 +112,8 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 ## 📜 Legende
 
 
-<div style="border: 2px solid rgb(192, 96, 33); padding: 10px; border-radius: 10px; background-color:rgba(0, 68, 255, 0.68); max-width: 600px;">
-  <table style="width: 90%; border-collapse: collapse;"> <!-- 100% und auto brachte nichts. Test mit 90%? -->
+<div style="border: 2px solid rgb(192, 96, 33); padding: 10px; border-radius: 10px; background-color:rgb(255, 187, 142); max-width: 550px;"> <!-- 600px zu groß, 550px? -->
+  <table style="width: auto; border-collapse: collapse;"> <!-- auto am besten -->
     <tr>
       <th style="text-align:left; padding: 5px;">Symbol</th>
       <th style="text-align:left; padding: 5px;">Bedeutung</th>
@@ -170,3 +166,5 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
     </tr>
   </table>
 </div>
+
+Hinweis: In der Kategorie „Insekten“ sind auch andere Lebewesen enthalten, da sich die Kategorie danach richtet, dass ein Zusatz am [kommt bald!] benötigt wird.
