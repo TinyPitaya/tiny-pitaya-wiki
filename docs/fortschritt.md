@@ -1,12 +1,16 @@
 
 <div style="
-  border:2px solid rgb(255, 255, 94);
-  background-color: rgba(255, 255, 161, 0.35);
+  border:2px solid rgb(102, 204, 70);
+  background-color: rgba(102, 204, 70, 0.35);
   border-radius:8px;
   padding:1em;
 ">
 <strong>🛠️ in Arbeit 🛠️</strong><br>
-- Hier steht, woran ich arbeite - Test 19.50
+  <ul>
+    <li>Vampirspringspinne</li>
+    <li>Drachenschnecke</li>
+    <li>Holzkiemer</li>
+  </ul>
 </div>
 
 ---

@@ -36,6 +36,10 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ## 📚 Inhalt
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 200px;">
+
 ### ✨ Welt & Regionen ✨
 
 - [🍄 Der Wald von Seltuun](./welt/waldseltuun.md)
@@ -50,6 +54,10 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ➡️ [Hier](./welt/wholemap.md) kommst du zur Weltkarte!
 
+</div>
+
+<div style="flex: 1; min-width: 200px;">
+
 ### ✨ Spezies & Charaktere ✨
 
 - [🧝 Elfen](./spezies/elfen.md)
@@ -62,13 +70,17 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [🧜🏻‍♀️ Thalirae](./spezies/thalirae.md)
 - [🐄 Vacchari](./spezies/vacchari.md)
 
+</div>
 
+<div style="flex: 1; min-width: 200px;">
 
 ### ✨ Fauna, Flora, Fungi ✨
 
 - [🐸 Fauna](./fauna/allfaunamain.md)
 - [🌱 Flora](./flora/allfloramain.md)
 - [🍄 Fungi](./fungi/allfungimain.md)
+
+</div>
 
 ---
 
