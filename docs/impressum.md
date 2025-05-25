@@ -15,7 +15,7 @@ Telefon: 015225227262
 
 ## Urheberrecht
 
-Alle auf dieser Webseite veröffentlichten Inhalte - einschließlich, aber nicht beschränkt auf Texte, Zeichnungen, Illustrationen, Charakterbeschreibungen, Weltenentwürfe, Namen, Karten und Konzepte - sind geistiges Eigentum der Urheberin Sarah Samantha Münch (sofern nicht anders gekennzeichnet) und unterliegen dem deutschen Urheberrecht (§§ 1 ff. UrhG).
+Alle auf dieser Webseite veröffentlichten Inhalte - einschließlich, aber nicht beschränkt auf von der Urheberin entwickelte Texte, Zeichnungen, Illustrationen, Charakterbeschreibungen, Weltenentwürfe, Namen, Karten und Konzepte - sind geistiges Eigentum der Urheberin Sarah Samantha Münch (sofern nicht anders gekennzeichnet) und unterliegen dem deutschen Urheberrecht (§§ 1 ff. UrhG).
 
 Eine Vervielfältigung, Bearbeitung, Verbreitung oder sonstige Nutzung dieser Inhalte - auch in abgeänderter Form - ist ohne ausdrückliche, schriftliche Genehmigung nicht gestattet. Dies gilt insbesondere für die Verwendung in eigenen Projekten, Veröffentlichungen oder kommerziellen Zusammenhängen.
 
