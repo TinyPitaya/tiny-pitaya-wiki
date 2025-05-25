@@ -14,10 +14,10 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
-1.  🐸  [kommt bald!](../neugier.md) 
-2.  🐸  [kommt bald!]
-3.  🐸  [kommt bald!]
-4.  🐸  [kommt bald!]
+1.  🐸  [kommt bald!](../neugier.md) Test 1 
+2.  🐸  [kommt bald!](../neugier.md) Test 2
+3.  🐸  [kommt bald!](/docs/neugier.md) Test 3
+4.  🐸  [kommt bald!](/neugier) Test 4
 5.  🐍  [kommt bald!]
 6.  🐸  [kommt bald!]
 7.  🐸  [kommt bald!]
