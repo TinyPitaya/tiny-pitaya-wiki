@@ -12,9 +12,9 @@ Dort siehst du, woran ich zuletzt gearbeitet habe.<br>
 Natürlich kann es auch selten passieren, dass ich etwas wirklich aus den Augen verloren habe...<br>
 Wenn du denkst, dass das hier der Fall ist, melde dich gerne bei mir:<br>
 
-</div>
-
 <div style="display: flex; justify-content: flex-start; gap: 1em; margin-top: 2em;">
   <a href="https://www.instagram.com//im.done.im.just.sayin/" target="_blank"><strong>Mein privater Instagram-Account</strong></a>
   <a href="https://www.instagram.com/tiny_pitaya/" target="_blank"><strong>Mein Kunst und Entwicklungs Instagram-Account</strong></a>
+</div>
+
 </div>

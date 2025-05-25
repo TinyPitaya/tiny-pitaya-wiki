@@ -1,6 +1,6 @@
 /* Sidebar-Hintergrund */
 .sidebar {
-  width: 350px;
+  width: 340px; /* 350px zu breit für mobile */
   float: left;
   padding: 20px; 
 
