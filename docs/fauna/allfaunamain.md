@@ -168,11 +168,11 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   </table>
 </div>
 
-Hinweis: In der Kategorie
-„Insekten“ sind auch andere 
-Lebewesen enthalten, da 
-sich die Kategorie danach 
-richtet, dass ein Zusatz 
-am [kommt bald!](/neugier) benötigt wird.
+Hinweis: In der Kategorie<br>
+„Insekten“ sind auch andere<br>
+Lebewesen enthalten, da<br>
+sich die Kategorie danach<br>
+richtet, dass ein Zusatz<br>
+am [kommt bald!](/neugier) benötigt wird.<br>
 
 </div> <!-- TEST -->

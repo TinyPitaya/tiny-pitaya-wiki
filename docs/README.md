@@ -83,7 +83,6 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 </div>
 
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">

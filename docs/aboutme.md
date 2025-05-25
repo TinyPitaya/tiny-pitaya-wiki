@@ -1,7 +1,9 @@
 
-<h1 style="color:rgb(255, 94, 161); text-align: center;">🌱 Über Tiny Pitaya 🌱</h1>
+<h1 style="color:rgb(255, 94, 161); text-align: center;">🌸 Über Tiny Pitaya 🌸</h1>
 
-Huhu! 💖 Wie schön, dass du hier bist!
+<div style="text-align: center;">
+Huhu! 💕 Wie schön, dass du hier bist!
+</div>
 
 Es bedeutet mir sehr viel, dass du dir die Zeit nimmst und einen Blick auf das wirfst, was ich hier teile. Diese Seite ist für alle, die sich genauso gern in fremde Welten verlieren wie ich - in Magie, Geschichten und Träume, die noch keinen festen Ort haben. NOCH nicht.
 

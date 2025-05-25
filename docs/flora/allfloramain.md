@@ -1,5 +1,5 @@
 
-<h1 style="color:rgb(212, 129, 198); text-align: center;">🌱 Flora 🌱</h1>
+<h1 style="color:rgb(238, 154, 224); text-align: center;">🌱 Flora 🌱</h1>
 
 <div style="text-align: center;">
 In der Welt von Seltuun gibt es viele einzigartige Lebensformen.<br>
@@ -49,7 +49,7 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 
 <div style="display: flex; justify-content: space-between; margin-top: 2em;"> <!-- TEST -->
 
-<div style="border: 2px solid rgb(130, 94, 158); padding: 10px; border-radius: 10px; background-color:rgba(184, 93, 177, 0.45); max-width: 550px;"> <!-- 600px zu groß, 550px? -->
+<div style="border: 2px solid rgb(238, 154, 224); padding: 10px; border-radius: 10px; background-color:rgba(238, 154, 224, 0.45); max-width: 550px;"> <!-- 600px zu groß, 550px? -->
   <table style="width: auto; border-collapse: collapse;"> <!-- auto am besten -->
     <tr>
       <th style="text-align:left; padding: 5px;">Symbol</th>
