@@ -1,15 +1,18 @@
 
+## 25.05.2025
+> Erstellung der "Über mich" Seite<br>
+
 ## 24.05.2025
 > Gliederung von Fauna<br>
 > Erstellung der Legende in Fauna<br>
 > Eintrag zur Tröpfelkröte erstellt<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi<br>
-> komplette Überarbeitung der Sidebar
+> Überarbeitung der Sidebar
 
 ## 23.05.2025
 > Erstellung des Einführungstextes<br>
-> optische Anpassung der Hauptseite
+> Anpassung der Startseite
 
 ## 22.05.2025
 > Erstellung der Webseite<br>

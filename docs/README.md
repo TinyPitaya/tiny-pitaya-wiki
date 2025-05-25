@@ -52,14 +52,16 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ### ✨ Spezies & Charaktere ✨
 
-- [🧙‍♀️ Menschen](./spezies/menschen.md)
 - [🧝 Elfen](./spezies/elfen.md)
 - [🐈 Felinen](./spezies/felinen.md)
-- [👯🏻 Moosblütenkinder](./spezies/moosblutenkinder.md)
-- [🦌 Rehe](./spezies/rehe.md)
+- [🧙‍♀️ Menschen](./spezies/menschen.md)
+- [👯🏻 Moosblüten](./spezies/moosblueten.md)
+- [🐉 Nymyari](./spezies/nymyari.md)
+- [🧜🏻‍♀️ Thalirae](./spezies/thalirae.md)
 - [👹 Oni](./spezies/oni.md)
+- [🦌 Rehe](./spezies/rehe.md)
 - [🐄 Vacchari](./spezies/vacchari.md)
-- [🧜🏻‍♀️ Nixen](./spezies/nixen.md)
+
 
 
 ### ✨ Fauna, Flora, Fungi ✨
@@ -88,7 +90,7 @@ Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
 ## 📜 Rechtlicher Hinweis
 
 Alle Inhalte dieses Wikis unterliegen dem Urheberrecht und sind geistiges Eigentum der Erstellerin,<br>
-sofern nicht ander angegeben.
+sofern nicht anders angegeben.
 
 🔒 **Bitte nichts ohne Erlaubnis kopieren, weiterverwenden oder verbreiten.**  
 Dies gilt insbesondere für den Einsatz in eigenen Projekten, Spielen, Texten oder Medien.
