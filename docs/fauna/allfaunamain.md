@@ -14,15 +14,15 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
-1.  🐸  [kommt bald!](../neugier.md) Test 1 
-2.  🐸  [kommt bald!](../neugier.md) Test 2
-3.  🐸  [kommt bald!](/docs/neugier.md) Test 3
-4.  🐸  [kommt bald!](/neugier) Test 4
-5.  🐍  [kommt bald!]
-6.  🐸  [kommt bald!]
-7.  🐸  [kommt bald!]
-8.  🐸  [kommt bald!]
-9.  🐸  [kommt bald!]
+1.  🐸  [kommt bald!](/neugier)
+2.  🐸  [kommt bald!](/neugier)
+3.  🐸  [kommt bald!](/neugier)
+4.  🐸  [kommt bald!](/neugier)
+5.  🐍  [kommt bald!](/neugier)
+6.  🐸  [kommt bald!](/neugier)
+7.  🐸  [kommt bald!](/neugier)
+8.  🐸  [kommt bald!](/neugier)
+9.  🐸  [kommt bald!](/neugier)
 10. 🐸  [Die Tröpfelkröte](./fauna/troepfelkroete.md)
 
 </div>
@@ -31,19 +31,19 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(58, 103, 176); text-align: left;">✨ Fische ✨</h3>
 
-1.  🐟  [kommt bald!]
-2.  🐟  [kommt bald!]
-3.  🐠  [kommt bald!]
-4.  🐟  [kommt bald!]
-5.  🐟  [kommt bald!]
-6.  🐟  [kommt bald!]
-7.  🐟  [kommt bald!]
-8.  🐟  [kommt bald!]
-9.  🐟  [kommt bald!]
-10. 🐠  [kommt bald!]
-11. 🐟  [kommt bald!]
-12. 🐟  [kommt bald!]
-13. 🦈  [kommt bald!]
+1.  🐟  [kommt bald!](/neugier)
+2.  🐟  [kommt bald!](/neugier)
+3.  🐠  [kommt bald!](/neugier)
+4.  🐟  [kommt bald!](/neugier)
+5.  🐟  [kommt bald!](/neugier)
+6.  🐟  [kommt bald!](/neugier)
+7.  🐟  [kommt bald!](/neugier)
+8.  🐟  [kommt bald!](/neugier)
+9.  🐟  [kommt bald!](/neugier)
+10. 🐠  [kommt bald!](/neugier)
+11. 🐟  [kommt bald!](/neugier)
+12. 🐟  [kommt bald!](/neugier)
+13. 🦈  [kommt bald!](/neugier)
 
 </div>
 
@@ -51,23 +51,23 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(227, 176, 99); text-align: left;">✨ Insekten ✨</h3>
 
-1.  🦀  [kommt bald!]
-2.  🐝  [kommt bald!]
-3.  🦀  [kommt bald!]
-4.  🐌  [kommt bald!]
-5.  🦋  [kommt bald!]
-6.  🐝  [kommt bald!]
-7.  🏐  [kommt bald!]
-8.  🏐  [kommt bald!]
-9.  🐝  [kommt bald!]
-10. 🕷️  [kommt bald!]
-11. 🏐  [kommt bald!]
-12. 🏐  [kommt bald!]
-13. 🦋  [kommt bald!]
-14. 🐉  [kommt bald!]
-15. 🏐  [kommt bald!]
-16. 🕷️  [kommt bald!]
-17. 🦋  [kommt bald!]
+1.  🦀  [kommt bald!](/neugier)
+2.  🐝  [kommt bald!](/neugier)
+3.  🦀  [kommt bald!](/neugier)
+4.  🐌  [kommt bald!](/neugier)
+5.  🦋  [kommt bald!](/neugier)
+6.  🐝  [kommt bald!](/neugier)
+7.  🏐  [kommt bald!](/neugier)
+8.  🏐  [kommt bald!](/neugier)
+9.  🐝  [kommt bald!](/neugier)
+10. 🕷️  [kommt bald!](/neugier)
+11. 🏐  [kommt bald!](/neugier)
+12. 🏐  [kommt bald!](/neugier)
+13. 🦋  [kommt bald!](/neugier)
+14. 🐉  [kommt bald!](/neugier)
+15. 🏐  [kommt bald!](/neugier)
+16. 🕷️  [kommt bald!](/neugier)
+17. 🦋  [kommt bald!](/neugier)
 
 </div>
 
@@ -81,10 +81,10 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(226, 103, 65); text-align: left;">✨ Säugetiere ✨</h3>
 
-1.  🐬  [kommt bald!]
-2.  🐿️  [kommt bald!]
-3.  🦊  [kommt bald!]
-4.  🐁  [kommt bald!]
+1.  🐬  [kommt bald!](/neugier)
+2.  🐿️  [kommt bald!](/neugier)
+3.  🦊  [kommt bald!](/neugier)
+4.  🐁  [kommt bald!](/neugier)
 
 </div>
 
@@ -92,16 +92,16 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(91, 176, 207); text-align: left;">✨ Vögel ✨</h3>
 
-1.  🦉  [kommt bald!]
-2.  🕊️  [kommt bald!]
-3.  🦜  [kommt bald!]
-4.  🦅  [kommt bald!]
+1.  🦉  [kommt bald!](/neugier)
+2.  🕊️  [kommt bald!](/neugier)
+3.  🦜  [kommt bald!](/neugier)
+4.  🦅  [kommt bald!](/neugier)
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
 
-<h3 style="color:rgb(0, 0, 0); text-align: left;">✨ [kommt bald!] ✨</h3>
+<h3 style="color:rgb(0, 0, 0); text-align: left;">✨ [kommt bald!](/neugier) ✨</h3>
 
 </div>
 
@@ -168,6 +168,11 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   </table>
 </div>
 
-Hinweis: In der Kategorie „Insekten“ sind auch andere Lebewesen enthalten, da sich die Kategorie danach richtet, dass ein Zusatz am [kommt bald!] benötigt wird.
+Hinweis: In der Kategorie
+„Insekten“ sind auch andere 
+Lebewesen enthalten, da 
+sich die Kategorie danach 
+richtet, dass ein Zusatz 
+am [kommt bald!](/neugier) benötigt wird.
 
 </div> <!-- TEST -->
