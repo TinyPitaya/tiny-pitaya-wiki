@@ -101,7 +101,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <div style="flex: 1; min-width: 200px;">
 
-<h3 style="color:rgb(0, 0, 0); text-align: left;">✨ [kommt bald!](/neugier) ✨</h3>
+<h3 style="color:rgb(0, 0, 0); text-align: left;">✨ [kommt bald!] ✨</h3>
 
 </div>
 

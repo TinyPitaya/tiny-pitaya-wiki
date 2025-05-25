@@ -21,5 +21,5 @@ Ich wünsche mir, dass diese Welt einmal all jenen offensteht, die sich darin ve
 
 <div style="display: flex; justify-content: space-between; margin-top: 2em;">
   <a href="https://www.instagram.com//im.done.im.just.sayin/" target="_blank"><strong>Mein privater Instagram-Account</strong></a>
-  <a href="https://www.instagram.com/tiny_pitaya/" target="_blank"><strong>Mein Kunst und Entwicklungs Instagram-Account</strong></a>
+  <a href="https://www.instagram.com/tiny_pitaya/" target="_blank"><strong>Mein Tiny Pitaya Instagram-Account</strong></a>
 </div>

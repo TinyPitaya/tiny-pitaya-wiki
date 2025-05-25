@@ -7,7 +7,7 @@
   border-radius:8px;
   padding:1em;
 ">
-<strong>🛠️ in Arbeit 🛠️</strong><br>
+<strong>🛠️ GERADE IN ARBEIT 🛠️</strong><br>
 
 <ul style="margin: 0; padding-left: 1em; list-style-position: inside;">
     <li>Vampirspringspinne</li>
