@@ -57,9 +57,9 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [🧙‍♀️ Menschen](./spezies/menschen.md)
 - [👯🏻 Moosblüten](./spezies/moosblueten.md)
 - [🐉 Nymyari](./spezies/nymyari.md)
-- [🧜🏻‍♀️ Thalirae](./spezies/thalirae.md)
 - [👹 Oni](./spezies/oni.md)
 - [🦌 Rehe](./spezies/rehe.md)
+- [🧜🏻‍♀️ Thalirae](./spezies/thalirae.md)
 - [🐄 Vacchari](./spezies/vacchari.md)
 
 
@@ -72,20 +72,31 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ---
 
-## 🛠️ Fortschritt
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
 
-➡️ [Hier](./fortschritt.md) kannst du sehen, was wann hochgeladen wurde!
-
----
+<div style="flex: 1; min-width: 250px;">
 
 ## 🔧 Du willst mitmachen?
 
 Momentan ist diese Seite im Aufbau und nur von mir, der Erstellerin editierbar.<br>
-Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!
+Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!<br>  
 
-📬 Kontakt: Instagram: @tiny_pitaya
+<a href="https://www.instagram.com/tiny_pitaya/" target="_blank"><strong>📬 Instagram</strong></a>
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
+## 🛠️ Fortschritt
+
+➡️ [Hier](./fortschritt.md) kannst du sehen, was wann hochgeladen wurde!
+
+</div>
+
+</div>
 
 ---
+
 
 ## 📜 Rechtlicher Hinweis
 

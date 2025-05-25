@@ -9,8 +9,8 @@
   background-repeat: no-repeat;
   background-position: center bottom;
 
-  text-align: left;
-  font-size: 30px;
+  text-align: center;
+  font-size: 60px; /* Test Size ob´s größer wird*/
   color: black;
 }
 
