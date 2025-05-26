@@ -24,11 +24,22 @@
   color: rgb(255, 94, 161); 
 }
 
-.vine-divider-pitaya {                     /* Test, Farbe: 255, 94, 161 bzw. Starthead */
-  width: 100%;                            /* Breite */
+/* Ab hier einige Ranken Divider mit Verwendungszweck rechts */
+
+.vine-divider-pitaya {                                                                     /* Farbe: 255, 94, 161 - in README */
+  width: 100%;                         
   height: 20px;                          /* Höhe, 20px sind 2 Zeilen */
-  background-image: url("assets/rankerosa1.jpg");
+  background-image: url("assets/rankepitaya.jpg");
   background-repeat: repeat-x;              /* Wiederhole nur horizontal */
   background-size: auto 100%;              /* Automatische Breite, volle Höhe */
   margin: 2em 0;                          /* Abstand nach oben und unten */
+}
+
+.vine-divider-impressum {                                                               /* Farbe: 220, 255, 255 - vor Impressum */
+  width: 100%;                         
+  height: 20px;                         
+  background-image: url("assets/rankeimpressum.jpg");
+  background-repeat: repeat-x;              
+  background-size: auto 100%;            
+  margin: 2em 0;                      
 }

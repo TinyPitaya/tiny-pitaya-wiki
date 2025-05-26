@@ -1,8 +1,6 @@
 
 <h1 style="color:rgb(255, 94, 161); text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
 
-<div class="vine-divider-pitaya"></div> 
-
 <div style="text-align: center;">
 <p style="font-size: 1.2em; font-weight: bold;">✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨</p>
 
@@ -118,7 +116,9 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 </div>
 
----
+
+<div class="vine-divider-pitaya"></div> 
+ 
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
@@ -144,7 +144,9 @@ Wenn du dennoch Feedback oder Ideen hast, freue ich mich über eine Nachricht!<b
 
 </div>
 
----
+
+<div class="vine-divider-impressum"></div> 
+ 
 
 ## 📜 Rechtlicher Hinweis
 

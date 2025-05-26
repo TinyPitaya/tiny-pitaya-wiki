@@ -20,7 +20,7 @@
 ---
 
 ## 26.05.2025
->
+> Anpassung der Trenner (Optik)<br>
 
 ## 25.05.2025
 > Erstellung der "about me" Seite<br>
@@ -35,11 +35,11 @@
 > Erstellung der Tröpfelkröte in Fauna<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi<br>
-> Überarbeitung der Sidebar
+> Anpassung der Sidebar (Optik)
 
 ## 23.05.2025
 > Erstellung des Einführungstextes<br>
-> Anpassung der Startseite
+> Anpassung der Startseite (Optik)
 
 ## 22.05.2025
 > Erstellung der Webseite<br>

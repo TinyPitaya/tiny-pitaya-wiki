@@ -175,4 +175,6 @@ sich die Kategorie danach<br>
 richtet, dass ein Zusatz<br>
 am [kommt bald!](/neugier) benötigt wird.<br>
 
-</div> <!-- TEST -->
+</div> <!-- sieht komisch aus? -->
+
+<div class="vine-divider-impressum"></div> 
