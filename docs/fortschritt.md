@@ -19,16 +19,20 @@
 
 ---
 
+## 26.05.2025
+>
+
 ## 25.05.2025
 > Erstellung der "about me" Seite<br>
 > Erstellung der 404 Seite<br>
+> Erstellung des Ladebildschirms<br>
 > Erstellung der Legende in Flora<br>
 > Erstellung der Legende in Fungi<br>
 
 ## 24.05.2025
 > Gliederung von Fauna<br>
 > Erstellung der Legende in Fauna<br>
-> Erstellung des Eintrages zur Tröpfelkröte<br>
+> Erstellung der Tröpfelkröte in Fauna<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi<br>
 > Überarbeitung der Sidebar
