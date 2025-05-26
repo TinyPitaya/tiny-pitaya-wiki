@@ -14,12 +14,28 @@
 
 
 
-  <script>
-    window.$docsify = {
-      name: '🌱 Tiny Pitaya 🌱',
-      loadSidebar: false                      // Wir deaktivieren die automatische Sidebar
-    };
-  </script>
+
+
+<script>
+  window.$docsify = {
+    el: '#main-content',         // NEU: Hierhin soll Docsify den Inhalt laden
+    name: '🌱 Tiny Pitaya 🌱',
+    loadSidebar: false           // Wir deaktivieren die automatische Sidebar
+  };
+</script>
+
+   
+
+
+
+<style> 
+  #main-content { 
+    display: none;
+  }
+</style>
+
+
+
 
 
 
@@ -51,6 +67,7 @@
 
   <div id="app"> <!-- PFLICHT, öffnet den Container, ohne das bleibt die Seite leer und lädt nicht -->
   <p id="loading-text">Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .</p> <!-- der Starttext, der angezeigt wird -->
+  <div id="main-content"></div>                                                                                             <!--TEST-->
 </div> <!-- PFLICHT, schließt den Container --> 
 
 <script>  // Skript angefangen 
@@ -77,11 +94,14 @@ const el = document.getElementById("loading-text");
 window.addEventListener("load", () => {
                                                 // erst 3 Sekunden warten, dann entfernen und Intervall stoppen
   setTimeout(() => {
-    const el = document.getElementById("loading-text");
-    if (el) el.remove();
+     const loading = document.getElementById("loading-text");
+    const content = document.getElementById("main-content");
+    if (loading) loading.remove();
+    if (content) content.style.display = "block"; // jetzt erst zeigen!
     clearInterval(interval);
   }, 3000);
 });
+
 
 
 </script> <!-- Skript beendet -->
