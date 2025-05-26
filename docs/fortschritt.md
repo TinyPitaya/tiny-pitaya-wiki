@@ -19,7 +19,7 @@
 ---
 
 ## 26.05.2025
-> Anpassung der Ranken-Trenner (Optik)<br>
+> Anpassung der Trenner (Optik)<br>
 
 ## 25.05.2025
 > Erstellung der "about me" Seite<br>

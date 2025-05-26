@@ -60,7 +60,8 @@ const messages = [
     "Beobachte einen 🦜 Viriltukan in 🌳 Phila Han . . ."   // legt fest, dass und welche Texte sich abwechseln
 ];                                                          
 
-  let index = 0;    // zeigt an, mit welchem Text angefangen wird, startend bei null
+ let index = Math.floor(Math.random() * messages.length);
+                                              // zeigt an, mit welchem Text angefangen wird, startend bei null
 
   const interval = setInterval(() => {    // Intervall der Wechsel gestartet
 
@@ -71,15 +72,17 @@ const el = document.getElementById("loading-text");
     }
   }, 6000); // alle 6 Sekunden wechseln
 
-  // Sobald die Seite vollständig von Docsify gerendert ist:
-  window.addEventListener("load", () => {
+                                    // Sobald die Seite vollständig von Docsify gerendert ist:
+
+window.addEventListener("load", () => {
+                                                // erst 3 Sekunden warten, dann entfernen und Intervall stoppen
+  setTimeout(() => {
     const el = document.getElementById("loading-text");
-    if (el) el.remove(); // Lade-Text verschwindet
-
-    clearInterval(interval); // Intervall der Wechsel gestoppt
-  
-
+    if (el) el.remove();
+    clearInterval(interval);
+  }, 3000);
 });
+
 
 </script> <!-- Skript beendet -->
 
