@@ -13,7 +13,6 @@
     <li>Vampirspringspinne</li>
     <li>Drachenschnecke</li>
     <li>Holzkiemer</li>
-    <li>Optik für Trennungen</li>
   </ul>
 </div>
 
