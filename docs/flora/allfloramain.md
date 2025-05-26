@@ -69,8 +69,8 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
   </table>
 </div>
 
-Infotext Test
+⬜
 
 </div>
-<br>
+
 <div class="vine-divider-impressum"></div> 

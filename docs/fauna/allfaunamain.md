@@ -107,7 +107,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 </div>
 
-<div class="vine-divider-impressum"></div> 
+<div class="vine-divider-impressum"></div>  
 
 ## 📜 Legende
 

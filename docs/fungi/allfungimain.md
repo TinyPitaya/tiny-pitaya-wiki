@@ -32,6 +32,9 @@ Entdecke hier die Vielfalt der Pilze!
     </tr>
   </table>
 </div>
+
+⬜
+
 </div>
 
 <div class="vine-divider-impressum"></div> 
