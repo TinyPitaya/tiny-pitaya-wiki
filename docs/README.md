@@ -1,6 +1,8 @@
 
 <h1 style="color:rgb(255, 94, 161); text-align: center;">🌱 Tiny Pitaya Wiki 🌱</h1>
 
+<div class="vine-divider"></div> 
+
 <div style="text-align: center;">
 <p style="font-size: 1.2em; font-weight: bold;">✨ Willkommen in dieser fantastischen Welt namens Seltuun! ✨</p>
 
