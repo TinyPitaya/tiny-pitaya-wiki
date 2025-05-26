@@ -13,6 +13,9 @@
     <li>Vampirspringspinne</li>
     <li>Drachenschnecke</li>
     <li>Holzkiemer</li>
+    <li>Viriltukan</li>
+    <li>Akeryllei</li>
+    <li>Phila Han</li>
   </ul>
 </div>
 

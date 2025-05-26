@@ -18,26 +18,13 @@
 
 <script>
   window.$docsify = {
-    el: '#main-content',         // NEU: Hierhin soll Docsify den Inhalt laden
+    el: '#app',         // Docsify lädt in #app
     name: '🌱 Tiny Pitaya 🌱',
     loadSidebar: false           // Wir deaktivieren die automatische Sidebar
   };
 </script>
 
    
-
-
-
-<style> 
-  #main-content { 
-    display: none;
-  }
-</style>
-
-
-
-
-
 
 
 </head> <!-- PFLICHT, ENDE von head, wichtig -->
@@ -65,17 +52,19 @@
 
 
 
-  <div id="app"> <!-- PFLICHT, öffnet den Container, ohne das bleibt die Seite leer und lädt nicht -->
-  <p id="loading-text">Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .</p> <!-- der Starttext, der angezeigt wird -->
-  <div id="main-content"></div>                                                                                             <!--TEST-->
-</div> <!-- PFLICHT, schließt den Container --> 
+  <div id="app"></div> <!-- PFLICHT, öffnet den Container, ohne das bleibt die Seite leer und lädt nicht -->
+ 
+  <!-- Lade-Overlay -->
+  <div id="loading-overlay">
+    <p id="loading-text">Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .</p>
+  </div>
 
 <script>  // Skript angefangen 
 
 const messages = [ 
-    "Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .",
-    "Beobachte einen 🦜 Viriltukan in 🌳 Phila Han . . ."   // legt fest, dass und welche Texte sich abwechseln
-];                                                          
+   "Suche 🐸 Tröpfelkröten in 🌷 Akeryllei . . .",
+   "Beobachte einen 🦜 Viriltukan in 🌳 Phila Han . . ."
+ ];                                                          
 
  let index = Math.floor(Math.random() * messages.length);
                                               // zeigt an, mit welchem Text angefangen wird, startend bei null
@@ -94,19 +83,45 @@ const el = document.getElementById("loading-text");
 window.addEventListener("load", () => {
                                                 // erst 3 Sekunden warten, dann entfernen und Intervall stoppen
   setTimeout(() => {
-     const loading = document.getElementById("loading-text");
-    const content = document.getElementById("main-content");
-    if (loading) loading.remove();
-    if (content) content.style.display = "block"; // jetzt erst zeigen!
-    clearInterval(interval);
+    const overlay = document.getElementById("loading-overlay");
+        if (overlay) {
+          overlay.style.opacity = '0';
+          setTimeout(() => overlay.remove(), 500);
+        }
+        clearInterval(interval);
   }, 3000);
 });
-
-
 
 </script> <!-- Skript beendet -->
 
 <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> <!-- wandelt Webseite um -->
+
+
+
+<style>
+    #loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      transition: opacity 0.5s ease;
+    }
+
+    #loading-text {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
+
+
+
 
 </body> <!-- PFLICHT, ENDE von body, wichtig -->
 
