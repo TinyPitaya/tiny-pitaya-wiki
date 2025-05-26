@@ -21,9 +21,13 @@
 
 ---
 
+## 27.05.2025
+>
+
 ## 26.05.2025
 > Anpassung der Trenner<br>
 > Anpassung des Ladebildschirms<br>
+> Gliederung von Gegner-Archiv
 
 ## 25.05.2025
 > Erstellung der "about me" Seite<br>

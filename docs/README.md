@@ -89,6 +89,8 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 ### ✨ Gegner-Archiv ✨
 
 - [🗡️ kommt bald!](/neugier)
+- [🗡️ kommt bald!](/neugier)
+- [🗡️ kommt bald!](/neugier)
 
 </div>
 </div>
