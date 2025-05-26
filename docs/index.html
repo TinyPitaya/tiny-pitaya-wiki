@@ -69,14 +69,17 @@ const messages = [
  let index = Math.floor(Math.random() * messages.length);
                                               // zeigt an, mit welchem Text angefangen wird, startend bei null
 
-  const interval = setInterval(() => {    // Intervall der Wechsel gestartet
+  const el = document.getElementById("loading-text");
+  if(el) {
+    el.textContent = messages[index];
+}
 
-const el = document.getElementById("loading-text");
-    if (el) {
-      el.textContent = messages[index % messages.length];
-      index++;
-    }
-  }, 6000); // alle 6 Sekunden wechseln
+const interval = setInterval(() => {
+  if (el) {
+    index++;
+    el.textContent = messages[index % messages.length];
+  }
+}, 6000); // alle 6 Sekunden wechseln
 
                                     // Sobald die Seite vollständig von Docsify gerendert ist:
 
@@ -89,7 +92,7 @@ window.addEventListener("load", () => {
           setTimeout(() => overlay.remove(), 500);
         }
         clearInterval(interval);
-  }, 3000);
+  }, 1500);  // 3000 zu lang, 1500?
 });
 
 </script> <!-- Skript beendet -->

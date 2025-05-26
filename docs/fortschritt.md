@@ -7,7 +7,7 @@
   border-radius:8px;
   padding:1em;
 ">
-<strong>🛠️ GERADE IN ARBEIT 🛠️</strong><br>
+<strong>🛠️ ALS NÄCHSTES IN ARBEIT 🛠️</strong><br>
 
 <ul style="margin: 0; padding-left: 1em; list-style-position: inside;">
     <li>Vampirspringspinne</li>
@@ -22,7 +22,8 @@
 ---
 
 ## 26.05.2025
-> Anpassung der Trenner (Optik)<br>
+> Anpassung der Trenner<br>
+> Anpassung des Ladebildschirms<br>
 
 ## 25.05.2025
 > Erstellung der "about me" Seite<br>
@@ -37,11 +38,11 @@
 > Erstellung der Tröpfelkröte in Fauna<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi<br>
-> Anpassung der Sidebar (Optik)
+> Anpassung der Sidebar
 
 ## 23.05.2025
 > Erstellung des Einführungstextes<br>
-> Anpassung der Startseite (Optik)
+> Anpassung der Startseite
 
 ## 22.05.2025
 > Erstellung der Webseite<br>
