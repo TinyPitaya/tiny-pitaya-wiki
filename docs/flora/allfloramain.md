@@ -13,14 +13,14 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 <h3 style="color:rgb(172, 97, 187); text-align: left;">✨ Wildblumen ✨</h3>
 
 1.  🌷  [kommt bald!](/neugier)
-2.  🌿  [kommt bald!](/neugier)
-3.  🌷  [kommt bald!](/neugier)
-4.  🌷  [kommt bald!](/neugier)
-5.  🌷  [kommt bald!](/neugier)
-6.  🌷  [kommt bald!](/neugier)
-8.  🌷  [kommt bald!](/neugier)
-7.  🌷  [kommt bald!](/neugier)
-9.  🌷  [kommt bald!](/neugier)
+1.  🌿  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
+1.  🌷  [kommt bald!](/neugier)
 
 </div>
 
@@ -29,9 +29,9 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
 <h3 style="color:rgb(75, 167, 110); text-align: left;">✨ Wildkräuter ✨</h3>
 
 1.  🌿  [kommt bald!](/neugier)
-2.  🌿  [kommt bald!](/neugier)
-3.  🌿  [kommt bald!](/neugier)
-4.  🍋  [kommt bald!](/neugier)
+1.  🌿  [kommt bald!](/neugier)
+1.  🌿  [kommt bald!](/neugier)
+1.  🍋  [kommt bald!](/neugier)
 
 </div>
 
