@@ -37,60 +37,65 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 
 
-
-
+<div style="text-align: center;">
 
 ## 📚 Inhalt
+
+</div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 1 WELT UND REGIONEN -->
 
-### ✨ Welt & Regionen ✨
+### ✨ Welt & Regionen ✨ 
 
-- [🍄 Der Wald von Seltuun](./welt/waldseltuun.md)
-- [🌷 Akeryllei](./welt/akeryllei.md)
-- [🌳 Phila Han](./welt/phila-han.md)
-- [🌵 Kera Miraoq](./welt/kera-miraoq.md)
-- [🌴 Nefirtarakh](./welt/nefirtarakh.md)
-- [🌸 Rivikōku](./welt/rivikoku.md)
-- [🏔️ Flireijl](./welt/flireijl.md)
-- [🏰 Das Kaiserreich](./welt/kaiserreich.md)
-- [🌊 Die Inselgruppe Zenzensiya](./welt/zenzensiya.md)
+- [🍄 Der Wald von Seltuun](/neugier)          <!-- ❌ -->
+- [🌷 Akeryllei](/neugier)                     <!-- ❌ -->
+- [🌳 Phila Han](/neugier)                     <!-- ❌ -->
+- [🌵 Kera Miraoq](/neugier)                   <!-- ❌ -->
+- [🌴 Nefirtarakh](/neugier)                   <!-- ❌ -->
+- [🌸 Rivikōku](/neugier)                      <!-- ❌ -->
+- [🏔️ Flireijl](/neugier)                      <!-- ❌ -->
+- [🏰 Das Kaiserreich](/neugier)               <!-- ❌ -->
+- [🌊 Die Inselgruppe Zenzensiya](/neugier)    <!-- ❌ -->
 
-➡️ [Hier](./welt/wholemap.md) kommst du zur Weltkarte!
+➡️ [Hier](/neugier) kommst du zur Weltkarte!
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 2 SPEZIES UND CHARAKTERE -->
 
 ### ✨ Spezies & Charaktere ✨
 
-- [🧝 Elfen](./spezies/elfen.md)
-- [🐈 Felinen](./spezies/felinen.md)
-- [🧙‍♀️ Menschen](./spezies/menschen.md)
-- [👯🏻 Moosblüten](./spezies/moosblueten.md)
-- [🐉 Nymyari](./spezies/nymyari.md)
-- [👹 Oni](./spezies/oni.md)
-- [🦌 Rehe](./spezies/rehe.md)
-- [🧜🏻‍♀️ Thalirae](./spezies/thalirae.md)
-- [🐄 Vacchari](./spezies/vacchari.md)
+- [🧝 Elfen](/neugier)         <!-- ❌ -->
+- [🐈 Felinen](/neugier)       <!-- ❌ -->
+- [🧙‍♀️ Menschen](/neugier)      <!-- ❌ -->
+- [👯🏻 Moosblüten](/neugier)    <!-- ❌ -->
+- [🐉 Nymyari](/neugier)       <!-- ❌ -->
+- [👹 Oni](/neugier)           <!-- ❌ -->
+- [🦌 Rehe](/neugier)          <!-- ❌ -->
+- [🧜🏻‍♀️ Thalirae](/neugier)       <!-- ❌ -->
+- [🐄 Vacchari](/neugier)      <!-- ❌ -->
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 3a ARTENVIELFALT -->
 
 ### ✨ Artenvielfalt ✨
 
-- [🐸 Fauna](./fauna/allfaunamain.md)
-- [🌱 Flora](./flora/allfloramain.md)
-- [🍄 Fungi](./fungi/allfungimain.md)
-
+- [🐸 Fauna](./fauna/allfaunamain.md)   <!-- ✔️ -->
+- [🌱 Flora](./flora/allfloramain.md)   <!-- ✔️ -->
+- [🍄 Fungi](./fungi/allfungimain.md)   <!-- ✔️ -->
+                                                                              <!-- 3b GEGNER-ARCHIV -->
 ### ✨ Gegner-Archiv ✨
 
-- [🗡️ kommt bald!](/neugier)
-- [🗡️ kommt bald!](/neugier)
-- [🗡️ kommt bald!](/neugier)
+- [⚔️ Kleine Gegner](/neugier)  <!-- ❌ -->
+- [⚔️ Elitegegner](/neugier)    <!-- ❌ -->
+- [⚔️ Bossgegner](/neugier)     <!-- ❌ -->
 
 </div>
 </div>
@@ -100,18 +105,34 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2em; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 4 TÄTIGKEITEN -->
 
-### ✨ ??? ✨
+### ✨ Tätigkeiten ✨
+
+- [🌾 Feldbau](/neugier)         <!-- ❌ -->
+- [🎣 Angeln](/neugier)          <!-- ❌ -->
+- [🧺 Zutatenliste](/neugier)    <!-- ❌ -->
+- [🍳 Kochen](/neugier)          <!-- ❌ -->
+- [🧪 Alchemie](/neugier)        <!-- ❌ -->
+- [💰 Verkaufskiste](/neugier)   <!-- ❌ -->
+- [🎀 Dekorationen](/neugier)    <!-- ❌ -->
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 5 KAMPF UND MAGIE -->
 
-### ✨ ??? ✨
+### ✨ Kampf & Magie ✨
+
+- [🔮 Göttersegen](/neugier)       <!-- ❌ -->
+- [🗡️ Waffen-Archiv](/neugier)     <!-- ❌ -->
+- [📿 Relikte](/neugier)            <!-- ❌ -->
+- [🏰 Dungeons](/neugier)          <!-- ❌ -->
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
+                                                                              <!-- 6a ??? -->
 
 ### ✨ ??? ✨
 

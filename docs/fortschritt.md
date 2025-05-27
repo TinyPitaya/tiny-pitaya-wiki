@@ -22,7 +22,9 @@
 ---
 
 ## 27.05.2025
->
+> Gliederung von Tätigkeiten<br>
+> Gliederung von Kampf & Magie<br>
+
 
 ## 26.05.2025
 > Anpassung der Trenner<br>
