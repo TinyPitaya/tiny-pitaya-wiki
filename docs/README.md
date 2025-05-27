@@ -83,14 +83,15 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-                                                                              <!-- 3a ARTENVIELFALT -->
+                                                                              <!-- 3.1 ARTENVIELFALT -->
 
 ### ✨ Artenvielfalt ✨
 
 - [🐸 Fauna](./fauna/allfaunamain.md)   <!-- ✔️ -->
 - [🌱 Flora](./flora/allfloramain.md)   <!-- ✔️ -->
 - [🍄 Fungi](./fungi/allfungimain.md)   <!-- ✔️ -->
-                                                                              <!-- 3b GEGNER-ARCHIV -->
+                                                                              <!-- 3.2 GEGNER-ARCHIV -->
+
 ### ✨ Gegner-Archiv ✨
 
 - [⚔️ Kleine Gegner](/neugier)  <!-- ❌ -->
@@ -132,7 +133,7 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-                                                                              <!-- 6a ??? -->
+                                                                              <!-- 6.1 ??? -->
 
 ### ✨ ??? ✨
 
