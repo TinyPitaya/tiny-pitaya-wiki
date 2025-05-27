@@ -23,29 +23,24 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
-1. [🐸 Die Tröpfel-kröte](./fauna/troepfelkroete.md) <!-- ✔️ -->
+1. [🐸 Die Tröpfelkröte](./fauna/troepfelkroete.md) <!-- ✔️ -->
 
 </div>
 
 <div style="flex: 1; min-width: 200px;">
 
-<h3 style="color:rgb(58, 103, 176); text-align: left;">✨ Fische ✨</h3>
- 
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1. [🐟 Goldblüten Koi](./fauna/goldbluetenkoi.md)               <!-- ✔️ -->
-1.  🐠  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1. [🐟 Kirschblüten Koi](./fauna/kirschbluetenkoi.md)           <!-- ✔️ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1. [🐟 Pflaumenblüten Koi](./fauna/pflaumenbluetenkoi.md)       <!-- ✔️ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐠  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🐟  [kommt bald!](/neugier)                                 <!-- ❌ -->
-1.  🦈  [kommt bald!](/neugier)                                 <!-- ❌ -->
+<h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
+
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐍  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
+1. [🐸 Die Tröpfelkröte](./fauna/troepfelkroete.md) <!-- ✔️ -->
 
 </div>
 
