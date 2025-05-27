@@ -61,7 +61,7 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [🏰 Das Kaiserreich](/neugier)               <!-- ❌ -->
 - [🌊 Die Inselgruppe Zenzensiya](/neugier)    <!-- ❌ -->
 
-➡️ [Hier](/neugier) kommst du zur Weltkarte!
+- [🗺️ Weltkarte](/neugier)                     <!-- ❌ -->
 
 </div>
 
@@ -90,6 +90,8 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [🐸 Fauna](./fauna/allfaunamain.md)   <!-- ✔️ -->
 - [🌱 Flora](./flora/allfloramain.md)   <!-- ✔️ -->
 - [🍄 Fungi](./fungi/allfungimain.md)   <!-- ✔️ -->
+
+- [🐾 Wie man Tiere fängt](/neugier)    <!-- ❌ -->
 
 ### ✨ Gegner-Archiv ✨
 
