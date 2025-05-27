@@ -25,8 +25,10 @@
 > Gliederung von Tätigkeiten<br>
 > Gliederung von Kampf & Magie<br>
 > Gliederung von Errungenschaften<br>
-> Gliederung von Sammlungen
-
+> Gliederung von Sammlungen<br>
+> Erstellung des Goldblüten-Koi in Fauna<br>
+> Erstellung des Kirschblüten-Koi in Fauna<br>
+> Erstellung des Pflaumenblüten-Koi in Fauna
 
 ## 26.05.2025
 > Anpassung der Trenner<br>
