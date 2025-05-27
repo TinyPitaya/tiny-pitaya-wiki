@@ -32,15 +32,15 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 <h3 style="color:rgb(58, 103, 176); text-align: left;">✨ Fische ✨</h3>
 
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
-1.  🐟  [kommt bald!](./fauna/goldbluetenkoi.md)       <!-- ❌ -->
+1.  🐟  [Goldblüten-Koi](./fauna/goldbluetenkoi.md)       <!-- ❌ -->
 1.  🐠  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
-1.  🐟  [kommt bald!](./fauna/kirschbluetenkoi.md)       <!-- ❌ -->
+1.  🐟  [Kirschblüten-Koi](./fauna/kirschbluetenkoi.md)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
-1.  🐟  [kommt bald!](./fauna/pflaumenbluetenkoi.md)      <!-- ❌ -->
+1.  🐟  [Pflaumenblüten-Koi](./fauna/pflaumenbluetenkoi.md)      <!-- ❌ -->
 
 </div>
 
