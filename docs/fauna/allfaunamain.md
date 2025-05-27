@@ -41,6 +41,11 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐟  [Pflaumenblüten-Koi](./fauna/pflaumenbluetenkoi.md)      <!-- ✔️ -->
+1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐠  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🐟  [kommt bald!](/neugier)       <!-- ❌ -->
+1.  🦈  [kommt bald!](/neugier)       <!-- ❌ -->
 
 </div>
 

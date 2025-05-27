@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Aussehen ✨</h3>
     <p style="margin: 0;">
-    Wie alle anderen Arten der Blüten-Koi misst auch der Pflaumenblüten-Koi zwischen 20 cm und 25 cm. Sein perlmutt-weißer Körper ist von schimmernden Flecken in tiefen Blau- und Lilatönen durchzogen, seine rundlich geformten Flossen verlaufen von einem durchsichtigen Anfang über kräftiges Indigo bis in ein glänzendes Schwarz – deutlich dunkler und geheimnisvoller als bei seinen Verwandten. Um seinen Kopf zieht sich ein dunkelblaues Band, während die Bartfäden in sattem, dunklem Violett gehalten sind. Charakteristisch sind seine meergrünen, großen Augen, die ihm, wie auch seinen Verwandten, ein besonders niedliches Aussehen verleihen.
+    Wie alle anderen Arten der Blüten-Koi misst auch der Pflaumenblüten-Koi zwischen 20 cm und 25 cm. Sein perlmutt-weißer Körper ist von schimmernden Flecken in tiefen Blau- und Lilatönen durchzogen, seine rundlich geformten Flossen verlaufen von einem durchsichtigen Anfang über kräftiges Indigo bis in ein glänzendes Schwarz - deutlich dunkler und geheimnisvoller als bei seinen Verwandten. Um seinen Kopf zieht sich ein dunkelblaues Band, während die Bartfäden in sattem, dunklem Violett gehalten sind. Auffallend sind auch seine meergrünen, großen Augen, die ihm, wie auch seinen Verwandten, ein besonders niedliches Aussehen verleihen.
   </div>
 </div>
 
