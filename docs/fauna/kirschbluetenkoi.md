@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Aussehen ✨</h3>
     <p style="margin: 0;">
-   Der Kirschblüten-Koi erreicht, wie auch andere Vertreter seiner Familie, eine Größe von etwa 20 cm bis 25 cm. Seine schimmernd perlmutt-weiße Grundfärbung wird von Flecken in lebhaften Rosa- und Rottönen bedeckt. Ein zartes, rosafarbenes Band umschmeichelt seinen Kopf und erinnert besonders an den Goldblüten-Koi, seine intensiv roten Bartfäden jedoch heben ihm deutlich von diesem Verwandten ab. Seine kurzen, rundlichen Flossen wirken zunächst durchsichtig und gehen dann in leuchtende Nuancen von Orange bis strahlendem Rot über – heller und lebendiger als bei seinen blütenverzierten Verwandten. Charakteristisch für die Blüten-Koi sind die meergrünen, überproportional großen Augen, die auch diesem Exemplar einen sanften, neugierig wirkenden Blick verleihen.
+   Der Kirschblüten-Koi erreicht, wie auch andere Vertreter seiner Familie, eine Größe von etwa 20 bis 25 cm. Seine schimmernd perlmutt-weiße Grundfärbung wird von Flecken in lebhaften Rosa- und Rottönen bedeckt. Ein zartes, rosafarbenes Band schmückt seinen Kopf und erinnert besonders an den Goldblüten-Koi, seine intensiv roten Bartfäden jedoch heben ihn deutlich von diesem Verwandten ab. Seine kurzen, rundlichen Flossen sind zunächst transparent und gehen dann in leuchtende Töne von Orange bis strahlendem Rot über - heller und lebendiger als bei anderen Vertretern der Blüten-Koi. Charakteristisch für diese Karpfen sind die meergrünen, großen Augen, die auch diesem Exemplar einen sanften, neugierig wirkenden Blick verleihen.
     </p>
   </div>
 </div>
