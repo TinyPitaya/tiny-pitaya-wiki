@@ -24,6 +24,8 @@
 ## 27.05.2025
 > Gliederung von Tätigkeiten<br>
 > Gliederung von Kampf & Magie<br>
+> Gliederung von Errungenschaften<br>
+> Gliederung von Sammlungen
 
 
 ## 26.05.2025

@@ -83,14 +83,13 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-                                                                              <!-- 3.1 ARTENVIELFALT -->
+                                                                              <!-- 3 ARTENVIELFALT, GEGNER-ARCHIV-->
 
 ### ✨ Artenvielfalt ✨
 
 - [🐸 Fauna](./fauna/allfaunamain.md)   <!-- ✔️ -->
 - [🌱 Flora](./flora/allfloramain.md)   <!-- ✔️ -->
 - [🍄 Fungi](./fungi/allfungimain.md)   <!-- ✔️ -->
-                                                                              <!-- 3.2 GEGNER-ARCHIV -->
 
 ### ✨ Gegner-Archiv ✨
 
@@ -133,11 +132,17 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 </div>
 
 <div style="flex: 1; min-width: 200px;">
-                                                                              <!-- 6.1 ??? -->
+                                                                              <!-- 6 ERRUNGENSCHAFTEN, SAMMLUNGEN -->
 
-### ✨ ??? ✨
+### ✨ Errungenschaften ✨
+  
+- [🏆 Hauptreise](/neugier)      <!-- ❌ -->
+- [🏆 Heldentaten](/neugier)     <!-- ❌ -->
 
-</div>
+### ✨ Sammlungen ✨
+
+- [🧩 Froschmöbel-Set](/neugier)  <!-- ❌ -->
+
 </div>
 
 
