@@ -1,59 +1,82 @@
-
-<h2 style="color: rgb(118, 158, 94); text-align: center;">🐸 Die Tröpfelkröte 🐸</h2>
+<h2 style="color: rgb(255, 94, 161); text-align: center;">🐈 Die Felinen 🐈</h2>
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
-  <!-- Bild links -->
+  <!-- Bild links --> 
   <div style="flex: 1;">
-    <img src="./faunapics/troepfelkroete-1.jpg" 
-         alt="🐸 Die Tröpfelkröte 🐸"
+    <img src="./faunapics/testbild.JPG" 
+         alt="TEST"
          style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
   </div>
   <!-- Aussehen-Box rechts -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Aussehen ✨</h3>
     <p style="margin: 0;">
-   Die Tröpfelkröte ist eine etwa 12 cm große, überwiegend cremefarbene Krötenart. Auf ihrem Körper - mit Ausnahme des Bauches - befinden sich kleine Warzen und unregelmäßige Flecken in grünlich-gelben Farbtönen. Ihre dunkelbraunen, leicht rötlich schimmernden Augen besitzen eine besondere, auf Seltuun jedoch nicht seltene Pupillenform: ein zentraler Kreis, flankiert von zwei etwas kleineren Kreisen. Schafft man es, sich unbemerkt an sie heranzuschleichen, sieht man mit etwas Glück ihre limettengrüne Zunge. Aufgrund ihrer hellen Färbung ist sie auf flachen Wiesen gut sichtbar.
-    </p>
+   Beschreibe hier die typischen äußerlichen Merkmale der Spezies
   </div>
 </div>
 
 ---
 
-<!-- Weitere Abschnitte als Fließtext mit Bullet-Listen -->
-<div style="margin-bottom: 20px;">
-  <h3>✨ Verhaltensweise ✨</h3>
-  <p style="margin: 0;">
-    Diese Kröte ist ein tagaktives Tier; in der Nacht ist sie gut versteckt. Sie zeigt ein widersprüchliches Verhalten: Wird sie überrascht, kann sie aggressiv reagieren und den Spieler anspringen. Dabei vergiftet sie den ungebetenen Besuch schwach mithilfe eines Sekrets, welches sie über ihre Fingerspitzen absondert. Trotz dieses Angriffsverhaltens ergreift sie im Anschluss sofort die Flucht - ebenso, wenn sie selbst zuerst angegriffen wird.
-  </p>
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Kultur links -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Lebensweise ✨</h3>
+    <p style="margin: 0;">
+      Wie lebt diese Spezies? Was ist ihr wichtig? Gibt es Rituale oder typische Verhaltensweisen?
+    </p>
+  </div>
+  <!-- Bild rechts --> 
+  <div style="flex: 1;">
+    <img src="./faunapics/testbild.JPG" 
+         alt="TEST"
+         style="max-width: 85%; height: auto; border-radius: 8px;">
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Lebensraum & Vorkommen ✨</h3>
-  <p style="margin: 0;">
-    Wer diese Amphibie sucht, findet sie vor allem in Akeryllei und im Kaiserreich - bevorzugt auf offenen Wiesen und an Waldrändern, wo das Gras flach wächst und nur wenige Blumen gedeihen. Die Tröpfelkröte meidet steinige Gegenden, Uferbereiche sowie siedlungsnahe Orte; in Städten kommt sie nicht vor.
-  </p>
+---
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Linker Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Fähigkeiten & Magie ✨</h3>
+    <p style="margin: 0;">
+      Welche natürlichen Stärken oder magischen Gaben hat diese Spezies?
+    </p>
+  </div>
+
+  <!-- Rechter Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Bild in der Welt ✨</h3>
+    <p style="margin: 0;">
+      Wie wird die Spezies in der Welt gesehen? Hoch angesehen? Gejagt? Gefürchtet?
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Was ist noch über dieses Tier bekannt? ✨</h3>
-  <p style="margin: 0;">
-    <!-- Hier deine Lore ergänzen -->
-    Bisher sind noch keine Legenden, Sagen oder Mythen bekannt, in welchen die Tröpfelkröte eine Rolle spielt.
-  </p>
-</div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Interaktionen in Quests ✨</h3>
-  <p style="margin: 0;">
-    <!-- Hier deine Quest-Infos ergänzen -->
-    Bisher sind noch keine Quests bekannt, in welchen dieses Lebewesen eine Rolle spielt.
-  </p>
-</div>
+---
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Beute und Nutzung ✨</h3>
-  <p style="margin: 0;">
-    Erhaltenes "Froschgift" wird in der Alchemie genutzt.<br>
-    Die Tröpfelkröte ist mit dem [Tierfanggegenstand] fangbar.
-  </p>
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Linker Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 📜 Nicht spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Eldran, der Älteste
+    </p>
+  </div>
+
+  <!-- Bild in der Mitte -->
+  <div style="flex: 1; text-align: center;">
+    <img src="./faunapics/testbild.JPG"
+         alt="Bild zur Darstellung der Spezies"
+         style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <!-- Rechter Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 🎮 Spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Isadora
+    </p>
+  </div>
 </div>
