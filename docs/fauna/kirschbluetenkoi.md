@@ -45,7 +45,7 @@
   <h3>✨ Interaktionen in Quests ✨</h3>
   <p style="margin: 0;">
     <!-- Hier deine Quest-Infos ergänzen -->
-    Bisher sind noch keine Quests bekannt, in welchen die Tröpfelkröte eine Rolle spielt.
+    Bisher sind noch keine Quests bekannt, in welchen dieses Lebewesen eine Rolle spielt.
   </p>
 </div>
 
