@@ -23,52 +23,61 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Kultur & Verhalten ✨</h3>
     <p style="margin: 0;">
-   Wie lebt diese Spezies? Was ist ihr wichtig? Gibt es Rituale oder typische Verhaltensweisen?
+      Wie lebt diese Spezies? Was ist ihr wichtig? Gibt es Rituale oder typische Verhaltensweisen?
+    </p>
   </div>
-</div>
   <!-- Bild rechts --> 
   <div style="flex: 1;">
     <img src="./faunapics/testbild.JPG" 
          alt="TEST"
-         style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
+         style="max-width: 85%; height: auto; border-radius: 8px;">
   </div>
+</div>
 
 ---
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
-  <!-- Fähigkeiten & Magie links -->
+  <!-- Linker Textblock -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Fähigkeiten & Magie ✨</h3>
     <p style="margin: 0;">
-   Welche natürlichen Stärken oder magischen Gaben hat diese Spezies?
+      Welche natürlichen Stärken oder magischen Gaben hat diese Spezies?
+    </p>
   </div>
-</div>
-  <!-- Bild in der Welt rechts --> 
+
+  <!-- Rechter Textblock -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ Bild in der Welt ✨</h3>
     <p style="margin: 0;">
-   Wie wird die Spezies in der Welt gesehen? Hoch angesehen? Gejagt? Gefürchtet?
+      Wie wird die Spezies in der Welt gesehen? Hoch angesehen? Gejagt? Gefürchtet?
+    </p>
   </div>
+</div>
+
+
 ---
 
-<table>
-<tr>
-<td style="width: 30%;">
-  <h3>📜 Nicht spielbare Charaktere</h3>
-  <ul>
-    <li>z. B. Eldran, der Älteste</li>
-    <li>…</li>
-  </ul>
-</td>
-<td style="width: 40%; text-align: center;">
-  <img src="path/zum/zusatzbild.jpg" alt="Charakterbild oder Symbolbild" width="80%">
-</td>
-<td style="width: 30%;">
-  <h3>🎮 Spielbare Charaktere</h3>
-  <ul>
-    <li>z. B. Isadora</li>
-    <li>…</li>
-  </ul>
-</td>
-</tr>
-</table>
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Linker Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 📜 Nicht spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Eldran, der Älteste
+    </p>
+  </div>
+
+  <!-- Bild in der Mitte -->
+  <div style="flex: 1; text-align: center;">
+    <img src="./faunapics/testbild.JPG"
+         alt="Bild zur Darstellung der Spezies"
+         style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <!-- Rechter Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 🎮 Spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Isadora
+    </p>
+  </div>
+</div>
