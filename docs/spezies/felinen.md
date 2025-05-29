@@ -1,40 +1,83 @@
 
+<h2 style="color: rgb(255, 94, 161); text-align: center;">🐈 Die Felinen 🐈</h2>
 
-<!-- Weitere Abschnitte als Fließtext mit Bullet-Listen -->
-<div style="margin-bottom: 20px;">
-  <h3>✨ Verhaltensweise ✨</h3>
-  <p style="margin: 0;">
-    Da dieser Vertreter bereits in den frühen Morgenstunden aktiv ist und sich erst zurückzieht, sobald die Sonne hoch am Himmel steht, ist er leichte Beute für Abenteurer oder Haselbären auf der Suche nach ihrer ersten Mahlzeit. Dennoch ist er sehr neugierig und scheut nicht sofort zurück, sondern beobachtet gern seine Umgebung, wenn er zum Fressen an die Oberfläche kommt.
-  </p>
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Bild links --> 
+  <div style="flex: 1;">
+    <img src="./faunapics/testbild.JPG" 
+         alt="TEST"
+         style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
+  </div>
+  <!-- Aussehen-Box rechts -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Aussehen ✨</h3>
+    <p style="margin: 0;">
+   Beschreibe hier die typischen äußerlichen Merkmale der Spezies
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Lebensraum & Vorkommen ✨</h3>
-  <p style="margin: 0;">
-    Wer diesen Fisch sucht, findet ihn - wie auch alle anderen Vertreter seiner Art - in sauberen, stehenden Süßwassergewässern in Rivikōku.
-  </p>
+---
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Kultur links -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Lebensweise ✨</h3>
+    <p style="margin: 0;">
+      Wie lebt diese Spezies? Was ist ihr wichtig? Gibt es Rituale oder typische Verhaltensweisen?
+    </p>
+  </div>
+  <!-- Bild rechts --> 
+  <div style="flex: 1;">
+    <img src="./faunapics/testbild.JPG" 
+         alt="TEST"
+         style="max-width: 85%; height: auto; border-radius: 8px;">
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Was ist noch über dieses Tier bekannt? ✨</h3>
-  <p style="margin: 0;">
-    <!-- Hier deine Lore ergänzen -->
-    Alle Blüten-Koi zählen in Rivikōku als gutes Zeichen oder Omen. Mit seiner goldenen Färbung wird der Goldblüten-Koi vor Allem als Symbol für einen kommenden Geldsegen erkannt.
-  </p>
+---
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Linker Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Fähigkeiten & Magie ✨</h3>
+    <p style="margin: 0;">
+      Welche natürlichen Stärken oder magischen Gaben hat diese Spezies?
+    </p>
+  </div>
+
+  <!-- Rechter Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ Bild in der Welt ✨</h3>
+    <p style="margin: 0;">
+      Wie wird die Spezies in der Welt gesehen? Hoch angesehen? Gejagt? Gefürchtet?
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Interaktionen in Quests ✨</h3>
-  <p style="margin: 0;">
-    <!-- Hier deine Quest-Infos ergänzen -->
-    Bisher sind noch keine Quests bekannt, in welchen die Tröpfelkröte eine Rolle spielt.
-  </p>
-</div>
 
-<div style="margin-bottom: 20px;">
-  <h3>✨ Beute und Nutzung ✨</h3>
-  <p style="margin: 0;">
-     Durch Angeln erhaltenes "Fischfilet" wird beim Kochen genutzt.<br>
-     Der Goldblüten-Koi ist mit dem [Tierfanggegenstand] fangbar.
-  </p>
+---
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
+  <!-- Linker Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 📜 Nicht spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Eldran, der Älteste
+    </p>
+  </div>
+
+  <!-- Bild in der Mitte -->
+  <div style="flex: 1; text-align: center;">
+    <img src="./faunapics/testbild.JPG"
+         alt="Bild zur Darstellung der Spezies"
+         style="max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
+
+  <!-- Rechter Textblock -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">✨ 🎮 Spielbare Charaktere ✨</h3>
+    <p style="margin: 0;">
+      z. B. Isadora
+    </p>
+  </div>
 </div>

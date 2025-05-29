@@ -70,8 +70,8 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ### ✨ Spezies & Charaktere ✨
 
-- [🧝 Elfen](/docs/spezies/elfen.md)       <!-- ❌ -->
-- [🐈 Felinen](./spezies/elfen.md)        <!-- ❌ -->
+- [🧝 Elfen](/neugier)          <!-- ❌ -->
+- [🐈 Felinen](/neugier)           <!-- ❌ angefangen-->
 - [🧙‍♀️ Menschen](/neugier)      <!-- ❌ -->
 - [👯🏻 Moosblüten](/neugier)    <!-- ❌ -->
 - [🐉 Nymyari](/neugier)       <!-- ❌ -->
