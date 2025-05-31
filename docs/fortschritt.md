@@ -17,19 +17,19 @@
 ---
 
 ## 31.05.2025
-> Erstellung des Ciramboyafrosches in Fauna<br>
+> Erstellung Ciramboyafrosch in Fauna<br>
 
 ## 27.05.2025
 > Gliederung von Tätigkeiten<br>
 > Gliederung von Kampf & Magie<br>
 > Gliederung von Errungenschaften<br>
 > Gliederung von Sammlungen<br>
-> Erstellung des Goldblüten-Koi in Fauna<br>
-> Bild zum Goldblüten-Koi hinzugefügt<br>
-> Erstellung des Kirschblüten-Koi in Fauna<br>
-> Bild zum Kirschblüten-Koi hinzugefügt<br>
-> Erstellung des Pflaumenblüten-Koi in Fauna<br
-> Bild zum Pflaumenblüten-Koi hinzugefügt
+> Erstellung Goldblüten-Koi in Fauna<br>
+> Bild Goldblüten-Koi hinzugefügt<br>
+> Erstellung Kirschblüten-Koi in Fauna<br>
+> Bild Kirschblüten-Koi hinzugefügt<br>
+> Erstellung Pflaumenblüten-Koi in Fauna<br
+> Bild Pflaumenblüten-Koi hinzugefügt
 
 ## 26.05.2025
 > Anpassung der Trenner<br>
@@ -46,7 +46,7 @@
 ## 24.05.2025
 > Gliederung von Fauna<br>
 > Erstellung der Legende in Fauna<br>
-> Erstellung der Tröpfelkröte in Fauna<br>
+> Erstellung Tröpfelkröte in Fauna<br>
 > Gliederung von Flora<br>
 > Gliederung von Fungi<br>
 > Anpassung der Sidebar
