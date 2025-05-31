@@ -22,9 +22,6 @@ Ich freue mich, dich auf dieser Reise dabei zu haben!
 
 </div>
 
-
-
-
 <div style="
   border:2px solid rgb(255, 94, 161);
   background-color: rgba(255, 94, 161, 0.35);
@@ -71,8 +68,8 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 ### ✨ Spezies & Charaktere ✨
 
 - [🧝 Elfen](/neugier)          <!-- ❌ -->
-- [🐈 Felinen](/spezies/felinen/allfelinenmain.md)          <!-- ❌ angefangen-->
-- [🧙‍♀️ Menschen](/neugier)      <!-- ❌ -->
+- [🐈 Felinen](/neugier)         <!-- ❌ angefangen-->
+- [🧙‍♀️ Menschen](/neugier)    <!-- ❌ -->
 - [👯🏻 Moosblüten](/neugier)    <!-- ❌ -->
 - [🐉 Nymyari](/neugier)       <!-- ❌ -->
 - [👹 Oni](/neugier)           <!-- ❌ -->

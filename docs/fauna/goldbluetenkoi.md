@@ -4,7 +4,7 @@
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
   <!-- Bild links --> 
   <div style="flex: 1;">
-    <img src="./faunapics/goldbluetenkoi.png" 
+    <img src="./fffpics/goldbluetenkoi.png" 
          alt="🐟 Der Goldblüten-Koi 🐟"
          style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
   </div>

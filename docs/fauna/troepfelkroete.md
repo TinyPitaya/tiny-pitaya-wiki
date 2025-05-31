@@ -4,8 +4,8 @@
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
   <!-- Bild links -->
   <div style="flex: 1;">
-    <img src="./faunapics/troepfelkroete-1.jpg" 
-         alt="🐸 Die Tröpfelkröte 🐸"
+    <img src="./fffpics/platzhalter.png" 
+         alt="Platzhalter"
          style="max-width: 85%; height: auto; border-radius: 8px;">  <!-- 75% war hier zu klein, 85% passt -->
   </div>
   <!-- Aussehen-Box rechts -->
