@@ -53,7 +53,6 @@
 <div style="margin-bottom: 20px;">
   <h3>✨ Beute und Nutzung ✨</h3>
   <p style="margin: 0;">
-     Durch Angeln erhaltenes "Fischfilet" wird beim Kochen genutzt.<br>
-     Der Goldblüten-Koi ist mit dem [Tierfanggegenstand] fangbar.
+     Bisher ist noch nichts über die Beute dieses Lebewesens bekannt.
   </p>
 </div>

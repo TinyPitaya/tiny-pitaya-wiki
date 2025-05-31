@@ -30,7 +30,7 @@
 <div style="margin-bottom: 20px;">
   <h3>✨ Lebensraum & Vorkommen ✨</h3>
   <p style="margin: 0;">
-    Zu finden ist dieser kleine Frosch in den nordwestlichen Gebieten Phila Han und Rivikōku; besonders an Flussufern hält er sich gern auf. Da er die warme, feuchte Luft genießt, ist er jedoch auch auf den Inseln in Zenzensiya weit verbreitet.
+     Da er die warme, feuchte Luft genießt, ist er auch auf den Inseln von Zenzensiya heimisch und weit verbreitet. Zu finden ist dieser kleine Frosch jedoch auh in den nordwestlichen Gebieten Phila Han und Rivikōku; besonders an Flussufern und auf Feuchtwiesen hält er sich gern auf.
   </p>
 </div>
 
@@ -38,7 +38,7 @@
   <h3>✨ Was ist noch über dieses Tier bekannt? ✨</h3>
   <p style="margin: 0;">
     <!-- Hier deine Lore ergänzen -->
-    Bisher sind noch keine Legenden, Sagen oder Mythen bekannt, in welchen dieses Lebewesen eine Rolle spielt.
+    Aufgrund seiner Optik wurde der Ciramboyafrosch auf den südöstlichen Inselgruppen gejagt und illegal in anderen Teilen der Welt gehandelt. Da er außerhalb von Zenzensiya keine natürlichen Fressfeinde hat, zählt er mittlerweile als invasive Art und wird wie eine Pest gehandhabt.
   </p>
 </div>
 

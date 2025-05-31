@@ -53,7 +53,6 @@
 <div style="margin-bottom: 20px;">
   <h3>✨ Beute und Nutzung ✨</h3>
   <p style="margin: 0;">
-    Erhaltenes "Froschgift" wird in der Alchemie genutzt.<br>
-    Die Tröpfelkröte ist mit dem [Tierfanggegenstand] fangbar.
+    Bisher ist noch nichts über die Beute dieses Lebewesens bekannt.
   </p>
 </div>

@@ -10,7 +10,7 @@
 <strong>🛠️ ALS NÄCHSTES IN ARBEIT 🛠️</strong><br>
 
 <ul style="margin: 0; padding-left: 1em; list-style-position: inside;">
-    <li>Vampirspringspinne</li>
+    <li>Zutaten Stück für Stück</li>
   </ul>
 </div>
 
