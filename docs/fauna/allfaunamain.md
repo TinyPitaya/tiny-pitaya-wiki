@@ -14,7 +14,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
-1.  [🐸 Der Ciramboyafrosch](./fauna/ciramboyafrosch.md)       <!-- ❌ BILD FEHLT -->
+1. [🐸 Der Ciramboyafrosch](./fauna/ciramboyafrosch.md)       <!-- ❌ BILD FEHLT -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
