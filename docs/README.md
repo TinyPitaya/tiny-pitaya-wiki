@@ -68,7 +68,7 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 ### ✨ Spezies & Charaktere ✨
 
 - [🧝 Gaelari](/neugier)          <!-- ❌ -->
-- [🐈 Felinen](/neugier)         <!-- ❌ angefangen-->
+- [🐈 Nekari](/neugier)         <!-- ❌ angefangen-->
 - [🧙‍♀️ Menschen](/neugier)    <!-- ❌ -->
 - [👯🏻 Moosblüten](/neugier)    <!-- ❌ -->
 - [🐉 Nymyari](/neugier)       <!-- ❌ -->

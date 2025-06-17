@@ -1,4 +1,5 @@
-<h2 style="color: rgb(255, 94, 161); text-align: center;">🐈 Die Felinen 🐈</h2>
+
+<h2 style="color: rgb(255, 94, 161); text-align: center;">🐈 Die Nekari 🐈</h2>
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
   <!-- Bild links --> 
@@ -20,7 +21,7 @@
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
   <!-- Kultur links -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0;">✨ Lebensweise ✨</h3>
+    <h3 style="margin-top: 0;">✨ Kultur & Verhalten ✨</h3>
     <p style="margin: 0;">
       Wie lebt diese Spezies? Was ist ihr wichtig? Gibt es Rituale oder typische Verhaltensweisen?
     </p>
@@ -61,7 +62,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ 📜 Nicht spielbare Charaktere ✨</h3>
     <p style="margin: 0;">
-      z. B. Eldran, der Älteste
+      Beispiele
     </p>
   </div>
 
@@ -76,7 +77,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ 🎮 Spielbare Charaktere ✨</h3>
     <p style="margin: 0;">
-      z. B. Isadora
+      Beispiele
     </p>
   </div>
 </div>
