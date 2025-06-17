@@ -67,13 +67,13 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 
 ### ✨ Spezies & Charaktere ✨
 
+- [🧙‍♀️ Menschen](/neugier)    <!-- ❌ -->
 - [🧝 Gaelari](/neugier)          <!-- ❌ -->
 - [🐈 Nekari](/neugier)         <!-- ❌ -->
-- [🧙‍♀️ Menschen](/neugier)    <!-- ❌ -->
 - [👯🏻 Moosblüten](/neugier)    <!-- ❌ -->
 - [🐉 Nymyari](/neugier)       <!-- ❌ -->
-- [👹 Oni](/neugier)           <!-- ❌ -->
-- [🦌 Rehe](/neugier)          <!-- ❌ -->
+- [👹 Rhonari](/neugier)           <!-- ❌ -->
+- [🦌 Velirae](/neugier)          <!-- ❌ -->
 - [🧜🏻‍♀️ Thalirae](/neugier)       <!-- ❌ -->
 - [🐄 Vacchari](/neugier)      <!-- ❌ -->
 
