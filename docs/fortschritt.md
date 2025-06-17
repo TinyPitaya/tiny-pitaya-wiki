@@ -15,6 +15,9 @@
 </div>
 
 ---
+## 17.06.2025
+> Anpassung von Spezies & Charaktere<br>
+> Erstellung Gaelari in Spezies & Charaktere<br>
 
 ## 31.05.2025
 > Erstellung Ciramboyafrosch in Fauna<br>

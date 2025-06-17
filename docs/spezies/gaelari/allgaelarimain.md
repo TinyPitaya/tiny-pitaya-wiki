@@ -1,5 +1,5 @@
 
-<h2 style="color: rgb(255, 94, 161); text-align: center;">🐈 Die Felinen 🐈</h2>
+<h2 style="color: rgb(255, 94, 161); text-align: center;">🧝 Die Gaelari 🧝</h2>
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 20px 0;">
   <!-- Bild links --> 
@@ -62,7 +62,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ 📜 Nicht spielbare Charaktere ✨</h3>
     <p style="margin: 0;">
-      z. B. Eldran, der Älteste
+      Beispiele
     </p>
   </div>
 
@@ -77,7 +77,7 @@
   <div style="flex: 1;">
     <h3 style="margin-top: 0;">✨ 🎮 Spielbare Charaktere ✨</h3>
     <p style="margin: 0;">
-      z. B. Isadora
+      Beispiele
     </p>
   </div>
 </div>
