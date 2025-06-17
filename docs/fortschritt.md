@@ -19,6 +19,7 @@
 > Anpassung von Spezies & Charaktere<br>
 > Erstellung Gaelari in Spezies & Charaktere<br>
 > Erstellung Nekari in Spezies & Charaktere<br>
+> Erstellung Menschen in Spezies & Charaktere<br>
 
 ## 31.05.2025
 > Erstellung Ciramboyafrosch in Fauna<br>
