@@ -75,7 +75,7 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [👹 Rhonari](/neugier)           <!-- ❌ -->
 - [🦌 Velirae](/neugier)          <!-- ❌ -->
 - [🧜🏻‍♀️ Thalirae](/neugier)       <!-- ❌ -->
-- [🐄 Vacchari](/neugier)      <!-- ❌ -->
+- [🐄 Vacchari](/vacchari/allvaccharimain.md)      <!-- ❌ -->
 
 </div>
 

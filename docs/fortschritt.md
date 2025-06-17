@@ -15,11 +15,6 @@
 </div>
 
 ---
-## 18.06.2025
-> Erstellung Rhonari in Spezies & Charaktere<br>
-> Erstellung Velirae in Spezies & Charaktere<br>
-> Erstellung Thalirae in Spezies & Charaktere<br>
-
 ## 17.06.2025
 > Anpassung von Spezies & Charaktere<br>
 > Erstellung Gaelari in Spezies & Charaktere<br>
@@ -27,6 +22,10 @@
 > Erstellung Menschen in Spezies & Charaktere<br>
 > Erstellung Moosblüten in Spezies & Charaktere<br>
 > Erstellung Nymyari in Spezies & Charaktere<br>
+> Erstellung Rhonari in Spezies & Charaktere<br>
+> Erstellung Velirae in Spezies & Charaktere<br>
+> Erstellung Thalirae in Spezies & Charaktere<br>
+> Erstellung Vacchari in Spezies & Charaktere<br>
 
 ## 31.05.2025
 > Erstellung Ciramboyafrosch in Fauna<br>
