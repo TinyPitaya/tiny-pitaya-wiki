@@ -18,6 +18,7 @@
 ## 18.06.2025
 > Erstellung Rhonari in Spezies & Charaktere<br>
 > Erstellung Velirae in Spezies & Charaktere<br>
+> Erstellung Thalirae in Spezies & Charaktere<br>
 
 ## 17.06.2025
 > Anpassung von Spezies & Charaktere<br>
