@@ -15,7 +15,7 @@
 </div>
 
 ---
-## 22.07.2025
+## 10.08.2025
 > Fauna, Flora und Fungi untereinander verlinkt
 
 ## 17.06.2025
