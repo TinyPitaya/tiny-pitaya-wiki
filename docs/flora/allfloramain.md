@@ -69,9 +69,9 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
   </table>
 </div>
 
-[Weiter zu Fauna](/docs/fauna/allfaunamain.md)
+[Weiter zu Fauna](/./fauna/allfaunamain)
 
-[Weiter zu Fungi](/docs/fungi/allfungimain.md)
+[Weiter zu Fungi](/./fungi/allfungimain.md)
 
 </div>
 
