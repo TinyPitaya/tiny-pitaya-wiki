@@ -170,7 +170,8 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   </table>
 </div>
 
-[Weiter zu Flora](/./fauna/allfloramain)
+[Weiter zu Flora](/./flora/allfloramain)<br>
+<br>
 
 [Weiter zu Fungi](/./fungi/allfungimain.md)
 

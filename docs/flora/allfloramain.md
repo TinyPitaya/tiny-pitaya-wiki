@@ -66,10 +66,11 @@ Entdecke hier die Vielfalt der Blumen, Kräuer, Moose und vielen weiteren!
       <td>🌳</td><td>für Material</td>
     </tr>
     </tr>
-  </table>
+  </table> 
 </div>
 
-[Weiter zu Fauna](/./fauna/allfaunamain)
+[Weiter zu Fauna](/./fauna/allfaunamain)<br>
+<br>
 
 [Weiter zu Fungi](/./fungi/allfungimain.md)
 

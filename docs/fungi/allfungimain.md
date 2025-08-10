@@ -33,9 +33,10 @@ Entdecke hier die Vielfalt der Pilze!
   </table>
 </div>
 
-[Weiter zu Fauna](/./fauna/allfaunamain)
+[Weiter zu Fauna](/./fauna/allfaunamain)<br>
+<br>
 
-[Weiter zu Flora](/./fungi/allfloramain.md)
+[Weiter zu Flora](/./flora/allfloramain.md)
 
 </div>
 
