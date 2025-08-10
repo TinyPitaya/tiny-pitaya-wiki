@@ -170,12 +170,9 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   </table>
 </div>
 
-Hinweis: In der Kategorie<br>
-„Insekten“ sind auch andere<br>
-Lebewesen enthalten, da<br>
-sich die Kategorie danach<br>
-richtet, dass ein Zusatz<br>
-am [kommt bald!](/neugier) benötigt wird.<br>
+[Weiter zu Flora](/./fauna/allfloramain)
+
+[Weiter zu Fungi](/./fungi/allfungimain.md)
 
 </div> <!-- sieht komisch aus? -->
 
