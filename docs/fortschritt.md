@@ -10,11 +10,14 @@
 <strong>🛠️ ALS NÄCHSTES IN ARBEIT 🛠️</strong><br>
 
 <ul style="margin: 0; padding-left: 1em; list-style-position: inside;">
-    <li>Zutaten Stück für Stück</li>
+    <li>Zutatenliste</li>
   </ul>
 </div>
 
 ---
+## 22.07.2025
+> Fauna, Flora und Fungi untereinander verlinkt
+
 ## 17.06.2025
 > Anpassung von Spezies & Charaktere<br>
 > Erstellung Gaelari in Spezies & Charaktere<br>
@@ -39,7 +42,7 @@
 > Bild Goldblüten-Koi hinzugefügt<br>
 > Erstellung Kirschblüten-Koi in Fauna<br>
 > Bild Kirschblüten-Koi hinzugefügt<br>
-> Erstellung Pflaumenblüten-Koi in Fauna<br
+> Erstellung Pflaumenblüten-Koi in Fauna<br>
 > Bild Pflaumenblüten-Koi hinzugefügt
 
 ## 26.05.2025

@@ -77,6 +77,7 @@ Die mobile Version folgt, sobald die Desktop-Fassung komplett ist.
 - [🧜🏻‍♀️ Thalirae](/neugier)       <!-- ❌ -->
 - [🐄 Vacchari](/spezies/vacchari/allvaccharimain.md)      <!-- ❌ -->
 
+? [kommt bald!](/neugier)           <!-- ❌ -->
 </div>
 
 <div style="flex: 1; min-width: 200px;">
