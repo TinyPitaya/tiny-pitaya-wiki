@@ -172,8 +172,8 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
   <!-- Rechte Spalte mit Links -->
 <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0.8em; font-size: 1.5em; padding-right: 2em; margin-top: 3em;">
-    <a href="./flora/allfloramain.html" style="text-decoration: none; color: #333;">➡️ Weiter zu Flora</a>
-    <a href="./fungi/allfungimain.html" style="text-decoration: none; color: #333;">➡️ Weiter zu Fungi</a>
+    <a href="#/./flora/allfloramain" style="text-decoration: none; color: #333;">➡️ Weiter zu Flora</a>
+    <a href="#/./fungi/allfungimain" style="text-decoration: none; color: #333;">➡️ Weiter zu Fungi</a>
   </div>
 
 </div>   <!-- ? -->
