@@ -16,7 +16,7 @@
 
 ---
 ## 10.08.2025
-> Fauna, Flora & Fungi untereinander verlinkt
+> Artenvielfalt untereinander verlinkt
 
 ## 17.06.2025
 > Anpassung von Spezies & Charaktere<br>
