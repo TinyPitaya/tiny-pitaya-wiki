@@ -14,7 +14,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 
 <h3 style="color:rgb(118, 158, 94); text-align: left;">✨ Amphibien ✨</h3>
 
-1. [🐸 Der Ciramboyafrosch](./fauna/ciramboyafrosch.md)       <!-- ❌ BILD FEHLT -->
+1.  🐸  [Ciramboyafrosch](./fauna/ciramboyafrosch.md)       <!-- ❌ BILD FEHLT -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
@@ -23,7 +23,7 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
 1.  🐸  [kommt bald!](/neugier)       <!-- ❌ -->
-1. [🐸 Die Tröpfelkröte](./fauna/troepfelkroete.md) <!-- ✔️ -->
+1.  🐸  [Tröpfelkröte](./fauna/troepfelkroete.md) <!-- ✔️ -->
 
 </div>
 
@@ -170,11 +170,12 @@ Entdecke hier die Vielfalt der Fische, Insekten, Vögel und vielen weiteren!
   </table>
 </div>
 
-[Weiter zu Flora](/./flora/allfloramain)<br>
-<br>
+  <!-- Rechte Spalte mit Links -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 0.5em; font-size: 1.2em;">
+    <a href="/./flora/allfloramain" style="text-decoration: none; color: #333;">➡️ Weiter zu Flora</a>
+    <a href="/./fungi/allfungimain.md" style="text-decoration: none; color: #333;">➡️ Weiter zu Fungi</a>
+  </div> <!-- sieht komisch aus? -->
 
-[Weiter zu Fungi](/./fungi/allfungimain.md)
-
-</div> <!-- sieht komisch aus? -->
+</div>   <!-- ? -->
 
 <div class="vine-divider-impressum"></div> 
